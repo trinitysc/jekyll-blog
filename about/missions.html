@@ -1,0 +1,27 @@
+---
+layout: page
+title: Our Mission Partners
+permalink: /about/missions
+---
+
+<div class="row">
+  <div class="col-12">
+    <p>Trinity supports a number of mission partners who are working to spread the gospel and care for people in New Zealand and around the world.</p>
+    <p>Our current mission partners are:</p>
+  </div>
+</div>
+<div class="row">
+  {% assign missions = site.missions | sort:"order" %}
+  {% for mission in missions %}
+  <div class="col-sm-4">
+    <div class="card text-white bg-success mb-3">
+      <img src="{{ mission.image | relative_url }}" class="card-img-top" alt="{{ mission.name }}" />
+      <div class="card-body">
+        <h5 class="card-title">{{ mission.name }}</h5>
+        {{ mission.content }}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+

@@ -1,0 +1,54 @@
+---
+layout: page
+title: Our People
+permalink: /about/our-leadership
+---
+
+<div class="row">
+  <div class="col-12">
+    <p>At Trinity, the Ministry Team is never just the paid staff and pastors. We believe that Jesus has given every Christian the gifts and opportunities to serve (minister) to their fellow Christians and to the community around them. We see this happening at Trinity week-in and week-out as people express love to one another, pray for one-another, serve, provide, train and teach.</p>
+    <h2>Our Leadership</h2>
+  </div>
+</div>
+<div class="row people jumbotron">
+  {% assign members = site.team | where: "banner", true| sort:"order"  %}
+  {% for member in members %}
+  <div class="col-sm-6">
+    <img style="max-width:100%" alt="{{ member.title }}" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
+    <h3>{{ member.name }} <small class=text-muted>{{ member.role }}</small></h3>
+    {{ member.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="row">
+  <div class="col-12">
+    <h2>Our Team</h2>
+  </div>
+</div>
+
+<div class="row people">
+  {% assign members = site.team | where: "banner", false| sort:"order"  %}
+  {% for member in members %}
+  <div class="col-sm-4">
+    <img style="max-width:100%" alt="{{ member.title }}" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
+    <h3>{{ member.name }} <small class=text-muted>{{ member.role }}</small></h3>
+    {{ member.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="row jumbotron p-3 mt-3">
+  <div class="col-12">
+    <h3>Governance</h3>
+    <p>Trinity is governed by a Parish Council, comprised of the Senior Minister and ordained assistant clergy, Churchwardens, and elected members and the Treasurer. The Wardens, along with the Senior Minister, are the legal officers of the church.</p>
+
+    <p>Our <b>Parish Council</b> for 2024 is:</p>
+    <ul>
+      <li>Senior Minister: James Ballinger
+      <li>Churchwardens: John McKie & Tim Wilson
+      <li>Treasurer: David Wong
+    </ul>
+    <p>Parish Council Members: Kyla Horne (Synod Rep), Joy Penno (Synod Rep), Martin Winder, Rob Vosslamber, and Sam Butcher, Nick Cook</p>
+  </div>
+</div>

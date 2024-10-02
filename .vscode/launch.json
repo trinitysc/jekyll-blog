@@ -3,8 +3,9 @@
     "configurations": [
       {
         "type": "chrome",
-        "request": "attach",
-        "name": "Attach",
+        "request": "launch",
+        "name": "Launch",
+        "url": "http://localhost:4000",
         "preLaunchTask": "Start Jekyll"
       }
     ]
