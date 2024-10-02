@@ -11,7 +11,7 @@ permalink: /about/our-leadership
   </div>
 </div>
 <div class="row people jumbotron">
-  {% assign members = site.team | where: "banner", true| sort:"order"  %}
+  {% assign members = site.team | where: "banner", true | sort:"order"  %}
   {% for member in members %}
   <div class="col-sm-6">
     <img style="max-width:100%" alt="{{ member.title }}" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />

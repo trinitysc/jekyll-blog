@@ -1,6 +1,6 @@
 ---
 title: Welcome Lunch
-tag: I'm new
+tag: visitors
 date: 2024-10-13
 ---
 

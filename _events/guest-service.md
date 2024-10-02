@@ -1,6 +1,6 @@
 ---
 title: Take a Walk in My Worldview
-tag: I'm new
+tag: visitors
 date: 2024-11-03
 ---
 Splendour amid Suffering – how can they coexist?
