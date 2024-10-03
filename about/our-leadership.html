@@ -10,18 +10,19 @@ permalink: /about/our-leadership
     <h2>Our Leadership</h2>
   </div>
 </div>
-<div class="row people jumbotron">
+<div class="row people leadership p-3">
   {% assign members = site.team | where: "banner", true | sort:"order"  %}
   {% for member in members %}
   <div class="col-sm-6">
-    <img style="max-width:100%" alt="{{ member.title }}" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
-    <h3>{{ member.name }} <small class=text-muted>{{ member.role }}</small></h3>
+    <img style="max-width:90%; margin:20px 5%;" alt="{{ member.title }}" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
+    <p class="m-0" style="color:#999;"><b>{{ member.role }}</b></p>
+    <h3>{{ member.name }}</h3>
     {{ member.content }}
   </div>
   {% endfor %}
 </div>
 
-<div class="row">
+<div class="row mt-3">
   <div class="col-12">
     <h2>Our Team</h2>
   </div>
@@ -32,7 +33,8 @@ permalink: /about/our-leadership
   {% for member in members %}
   <div class="col-sm-4">
     <img style="max-width:100%" alt="{{ member.title }}" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
-    <h3>{{ member.name }} <small class=text-muted>{{ member.role }}</small></h3>
+    <p class="m-0" style="color:#999;"><b>{{ member.role }}</b></p>
+    <h3>{{ member.name }}</h3>
     {{ member.content }}
   </div>
   {% endfor %}
