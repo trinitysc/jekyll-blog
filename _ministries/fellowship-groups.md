@@ -1,4 +1,4 @@
-c---
+---
 title: Fellowship Groups
 banner:
 order: 3

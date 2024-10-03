@@ -2,16 +2,11 @@
 layout: page
 title: Ministries
 permalink: /ministries/
+banner: /media/banners/after-church.jpg
 ---
 
 {% assign ministries = site.ministries | sort:"order"  %}
 {% for ministry in ministries %}
-<div class="row">
-  <div class="col-3">
-    <h2>{{ ministry.title }} </h2>    
-  </div>
-  <div class="col-9">
-    {{ ministry.content }}
-  </div>
-</div>
+<h2 class="mt-3">{{ ministry.title }} </h2>
+{{ ministry.content }}
 {% endfor %}
