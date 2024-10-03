@@ -51,12 +51,16 @@ footer {
  
 .locators {
   background-color: var(--light);
+  text-align: center;
 }
 
   .locators img {
     max-width: 100%;
     border-radius: 50%;
     border: 1px solid #ddd;
+  }
+  .locators img:hover {
+    border: 1px solid #aaa;
   }
 
     .locators img[width] {

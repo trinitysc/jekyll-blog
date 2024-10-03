@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,13 +86,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Github\\jekyll-blog\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-02T22:35:43.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "events.html",
               "DocumentMoniker": "C:\\Github\\jekyll-blog\\events.html",
               "RelativeDocumentMoniker": "events.html",
               "ToolTip": "C:\\Github\\jekyll-blog\\events.html",
               "RelativeToolTip": "events.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-10-02T22:23:44.774Z",
               "EditorCaption": ""
@@ -108,19 +121,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-10-02T22:10:27.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Github\\jekyll-blog\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAC8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-02T22:09:47.312Z",
               "EditorCaption": ""
             }
           ]
