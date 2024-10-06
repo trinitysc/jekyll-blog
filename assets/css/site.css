@@ -16,16 +16,6 @@ body > footer {
   top: 100vh;
 }
 
-/* Stop the toggler dropping onto a new line*/
-@media (max-width: 500px) {
-  .navbar-brand {
-    display: contents;
-  }
-
-    .navbar-brand img {
-      max-width: 70%;
-    }
-}
 
 /* Vignette: https://codepen.io/burtclan/pen/NgPjva */
 .vignette {
@@ -81,58 +71,6 @@ body > footer {
    }
 }
 
-/* No media query for `xs` since this is the default in Bootstrap
-   Small devices (landscape phones, 576px and up) */
-  @media only screen and (min-width: 576px) {
-    .leadership {
-      border-radius: 20px;
-    }
-
-    .in-banner {
-      max-width: 540px;
-      left: calc(50vw - 270px);
-      font-size: 3rem;
-    }
-    .navbar-brand img {
-      height: 100px;
-    }
-  }
-  /* Medium devices (tablets, 768px and up) */
-  @media only screen and (min-width: 768px) {
-    .vignette img {
-      display: inline-block;
-      width: 100%;
-      height: 100%;
-    }
-
-    .in-banner {
-      left: calc(50vw - 360px);
-    }
-  }
-  /* Large devices (desktops, 992px and up) */
-  @media only screen and (min-width: 992px) {
-    /* show secondary menu a little above the main menu */
-    .navbar-nav.secondary {
-      margin-top: -60px;
-      margin-right: 5%;
-    }
-
-      .navbar-nav.secondary .nav-link {
-        color: #808181;
-      }
-
-    .in-banner {
-      max-width: 960px;
-      left: calc(50vw - 480px)
-    }
-  }
-  /* Extra large devices (large desktops, 1200px and up) */
-  @media only screen and (min-width: 1200px) {
-    .in-banner {
-      max-width: 1140px;
-      left: calc(50vw - 570px)
-    }
-  }
 
   .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
   color: rgba(255, 255, 255, 1.0);
@@ -184,10 +122,10 @@ footer {
     content: ' ';
     display: block;
     position: absolute;
-    left: -10%;
-    top: -20%;
-    width: 110%;
-    height: 120%;
+    left: -20%;
+    top: -10%;
+    width: 150%;
+    height: 150%;
     opacity: 0.4;
     background-image: url("/media/logos/trinity-white.png");
     background-repeat: no-repeat;
@@ -255,8 +193,7 @@ jumbotron * {
       }
 
   .locators p {
-    margin-top: 2rem;
-    font-size: smaller;
+    margin-top: 1rem;
     text-align: center;
   }
 
@@ -305,4 +242,77 @@ p.brochure {
   background-color: #F7F2EB;
   color: #D56F3E;
   font-weight: bolder;
+}
+
+/* MEDIA QUERIES */
+/* Stop the toggler dropping onto a new line*/
+@media (max-width: 500px) {
+  .navbar-brand {
+    display: contents;
+  }
+
+    .navbar-brand img {
+      max-width: 70%;
+    }
+}
+
+/* No media query for `xs` since this is the default in Bootstrap
+   Small devices (landscape phones, 576px and up) */
+@media only screen and (min-width: 576px) {
+  .leadership {
+    border-radius: 20px;
+  }
+
+  .in-banner {
+    max-width: 540px;
+    left: calc(50vw - 270px);
+    font-size: 3rem;
+  }
+
+  .navbar-brand img {
+    height: 90px;
+  }
+  .jumbotron {
+    border-radius: 15px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .vignette img {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+
+  .in-banner {
+    left: calc(50vw - 360px);
+  }
+
+
+
+}
+/* Large devices (desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  /* show secondary menu a little above the main menu */
+  .navbar-nav.secondary {
+    margin-top: -60px;
+    margin-right: 5%;
+  }
+
+    .navbar-nav.secondary .nav-link {
+      color: #808181;
+    }
+
+  .in-banner {
+    max-width: 960px;
+    left: calc(50vw - 480px)
+  }
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .in-banner {
+    max-width: 1140px;
+    left: calc(50vw - 570px)
+  }
 }
