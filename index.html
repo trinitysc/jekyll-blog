@@ -13,7 +13,8 @@ permalink: /
     <div class="row jumbotron p-4 mt-4 locators">
       <div class="col-sm-4">
         <h2>Welcome</h2>
-        <p>We meet every Sunday at <b>9 am</b> and <b>10:45am</b> at <a href="/visit/location">200 Colombo St, Sydenham</a>.<p>
+        <p>We meet every Sunday at <b>9 am</b> and <b>10:45 am</b> at <a href="/visit/location">200 Colombo St, Sydenham</a>.<p>
+        <p>We would love to give you a warm welcome.</p>
         <a class="btn btn-primary" href="/visit/sundays">I'm New</a>
         <a class="btn btn-info" href="https://www.google.com/maps/dir//200+Colombo+Street,+Sydenham,+Christchurch+8023/" target="_blank">Directions</a>
       </div>
@@ -28,14 +29,14 @@ permalink: /
       </div>
     </div>
 
-    <div class="row mb-3">
+    <div class="row mb-4">
       <div class="col">
         <h2>Our latest sermon on Spotify</h2>
+        <p>We are currently preaching through the book of Exodus (which is much more interesting than that might sound). Listen to our latest sermon on Spotify, or check out our full <a href="/listen">Sermon Archive</a>. We recently published our 1,000th sermon!</p>
         <iframe style="border-radius:6px" src="https://open.spotify.com/embed/show/6kObfpMFJbH71CT1MiKo48" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-        <p>We recently published our 1,000th sermon! See our full <a href="/listen">Sermon Archive</a>.</p>
       </div>
     </div>
-    <div class="row">
+    <div class="row mb-4">
       <div class="col-12">
         <h2>Upcoming Visitor Events</h2>
       </div>
@@ -47,7 +48,7 @@ permalink: /
       {% if event_date >= today_date %}
       <div class="col-sm-4 mb-3">
         <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
-        <h3>{{ event.title }} </h3>
+        <h4>{{ event.title }} </h4>
         {{ event.content }}
 
         {% if event.tag == "visitors" %}

@@ -143,6 +143,33 @@ h1 {
   margin-bottom: 3rem;
 }
 
+/* FAQs */
+details {
+  padding: 10px;
+  background-color: var(--light);
+  border-radius: 10px;
+  margin-bottom:10px;
+}
+
+  details p {
+    background-color: #fcfbf9;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 0;
+  }
+
+summary {
+  color: var(--blue);
+  font-weight: bold;
+}
+  summary::marker {
+    color: var(--blue);
+    font-size: 1.2em;
+  }
+
+
+
+/* Footer */
 footer .nav-item .nav-link {
   padding: 0;
 }
