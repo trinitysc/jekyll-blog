@@ -315,4 +315,9 @@ p.brochure {
     max-width: 1140px;
     left: calc(50vw - 570px)
   }
+
+  .vignette,.vignette img{
+    max-height: 600px;
+    object-fit: cover;
+  }
 }
