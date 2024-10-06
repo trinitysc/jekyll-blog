@@ -4,27 +4,28 @@ title: Listen
 permalink: /listen/
 ---
 
-<div class="row">
-  <div class="col">
-
+<div class="row mb-4">
+  <div class="col-12 mb-4 p-3 jumbotron">
     <p>We are passionate about making sure everyone can hear the Word of God. At Trinity, we normally work through books of the Bible (called expository preaching) to think about what God is saying and how it applies to us today.</p>
 
     <p>We aim to upload our sermons on the Sunday they are preached to our <a href="https://listen.trinitysc.nz">Sermon Library</a> and to Spotify.</p>
-    <h2>Current Series</h2>
-
     <p class="text-center">
       <a href="https://listen.trinitysc.nz" class="btn btn-primary">Sermon Library</a>
       <a href="https://open.spotify.com/show/6kObfpMFJbH71CT1MiKo48" class="btn btn-info">Spotify</a>
     </p>
+    </div>
+  <div class="col-12">
+    <h2>Current Series</h2>
+
     <p class="mt-3">We are currently going through the book of Exodus. Listen to our latest sermon on Spotify:</p>
     <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/6kObfpMFJbH71CT1MiKo48?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   </div>
 </div>
 
-<div class="row">
+<div class="row mb-4">
   <div class="col-12">
-    <h2>Previous Sermon Series</h2>
-    <p>Or try one of our previous sermon series:</p>
+    <h2>Sermon Library</h2>
+    <p>Or try one of the sermon series in our <a href="https://listen.trinitysc.nz/">archive</a>.</p>
   </div>
   {% assign site-series = site.series | sort: "sid" | reverse %}
   {% for series in site-series %}

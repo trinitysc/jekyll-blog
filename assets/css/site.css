@@ -196,13 +196,21 @@ footer {
     background-clip: border-box;
   }
 
+.row {
+  position: relative;
+  z-index: 1;
+}
+
 .jumbotron {
   position: relative;
   background-clip: padding-box;
-  overflow: hidden; /* The background image below will otherwise spill over, creating a horizontal scroll bar. */
+  /* The background image below will otherwise spill over, creating a horizontal scroll bar. */
+  overflow: hidden;
+  /* This combines with z-index on the psudo-element to keep the background image visibule, but behind the jumbotron contents */
+  transform-style: preserve-3d;
 }
 
-  .jumbotron:before {
+  .jumbotron:after {
     content: ' ';
     display: block;
     position: absolute;
@@ -215,7 +223,13 @@ footer {
     background-repeat: no-repeat;
     background-position: 10% 0;
     background-size: 60%;
+    transform: translateZ(-1px);
+    z-index:-1;
   }
+
+jumbotron * {
+  transform: translateZ(1px);
+}
 
 .locators {
   background-color: var(--light);
