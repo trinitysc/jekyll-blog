@@ -19,6 +19,8 @@ collections:
     output: true
   missions:
     output: true
+  series:
+    output: true
 
 plugins:
   - jekyll-feed
