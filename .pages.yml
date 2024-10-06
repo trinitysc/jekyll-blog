@@ -1,5 +1,19 @@
 media: media
 content:
+  - name: team
+    label: Team
+    type: collection
+    path: _team
+    view:
+      fields: [ cover, title ]
+    fields:
+      - { name: layout, type: string, hidden: true, default: post }
+      - { name: cover, label: Cover image, type: image }
+      - { name: title, label: Title, type: string, required: true }
+      - { name: categories, label: Categories, type: select, options: { values: [ "misc", "junk" ] } }
+      - { name: author, label: Authors, type: string, list: true }
+      - { name: meta, label: Meta, type: string }
+      - { name: body, label: Body, type: rich-text }
   - name: posts
     label: Posts
     type: collection

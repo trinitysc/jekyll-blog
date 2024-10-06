@@ -11,7 +11,7 @@ permalink: /about/missions
   </div>
 </div>
 <div class="row">
-  {% assign missions = site.missions | sort:"order" %}
+  {% assign missions = site.missions | where_exp: "mission", "mission.order>0" | sort:"order" %}
   {% for mission in missions %}
   <div class="col-sm-4">
     <div class="card text-white bg-success mb-3">

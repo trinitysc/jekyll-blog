@@ -2,20 +2,96 @@
   color: rgba(255, 255, 255, 0.8);
 }
 
-/* Secondary menu */
-@media only screen and (min-width: 1000px) {
+h1 {
+  text-transform: uppercase;
+}
+
+
+/* Stop the toggler dropping onto a new line*/
+@media (max-width: 500px) {
+  .navbar-brand {
+    display: contents;
+  }
+
+    .navbar-brand img {
+      max-width: 70%;
+    }
+}
+
+/* Vignette: https://codepen.io/burtclan/pen/NgPjva */
+.vignette {
+  position: relative;
+  color: white;
+}
+
+  /* This tells the browser to zoom in and crop. */
+  /* override this for larger srcreens in the media query section */
+  .vignette img {
+    height: 300px;
+    object-fit: cover;
+  }
+
+  .vignette:after {
+    content: "";
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-collapse: separate;
+    box-shadow: inset 0 0 40px 20px rgba(0, 0, 0, 0.7);
+  }
+
+  .vignette.vignette-small:after {
+    box-shadow: inset 0 0 20px 10px rgba(0, 0, 0, 0.7);
+  }
+
+  .vignette.vignette-large:after {
+    box-shadow: inset 0 0 80px 40px rgba(0, 0, 0, 0.7);
+  }
+
+
+/* No media query for `xs` since this is the default in Bootstrap
+   Small devices (landscape phones, 576px and up) */
+@media only screen and (min-width: 576px) {
+  .leadership {
+    border-radius: 20px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .vignette img {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  /* show secondary menu a little above the main menu */
   .navbar-nav.secondary {
     margin-top: -60px;
     margin-right: 5%;
   }
+
     .navbar-nav.secondary .nav-link {
       color: #808181;
     }
 }
 
-  .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
-    color: rgba(255, 255, 255, 1.0);
-  }
+/* Extra large devices (large desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}
+
+
+
+
+.navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
+  color: rgba(255, 255, 255, 1.0);
+}
 
 h1 {
   margin-top: 1rem;
@@ -29,7 +105,7 @@ footer .nav-item .nav-link {
 footer {
   position: relative;
   min-height: 150px;
-  overflow:hidden;
+  overflow: hidden;
 }
 
   footer:before {
@@ -68,7 +144,7 @@ footer {
     background-position: 10% 0;
     background-size: 60%;
   }
- 
+
 .locators {
   background-color: var(--light);
   text-align: center;
@@ -79,9 +155,10 @@ footer {
     border-radius: 50%;
     border: 1px solid #ddd;
   }
-  .locators img:hover {
-    border: 1px solid #aaa;
-  }
+
+    .locators img:hover {
+      border: 1px solid #aaa;
+    }
 
     .locators img[width] {
       width: auto; /* Defer to max-width */
@@ -98,91 +175,48 @@ footer {
   }
 
 
-  .leadership {
-    background-color: var(--light);
-  }
-@media only screen and (min-width: 576px) {
-  .leadership {
-    border-radius: 20px;
-  }
-
+.leadership {
+  background-color: var(--light);
 }
 
-  .people img {
-    border-radius: 50%;
+.people img {
+  border-radius: 50%;
+}
+
+img.round {
+  border-radius: 50%;
+}
+
+
+.panel {
+  background-color: blue;
+  padding: 1em;
+  color: white;
+}
+
+  .panel .faded {
+    color: blue;
   }
 
-  img.round {
-    border-radius: 50%;
-  }
+img {
+  max-width: 100%;
+}
 
-  /* Vignette: https://codepen.io/burtclan/pen/NgPjva */
-  .vignette {
-    position: relative;
-    display: inline-block;
-    color: white;
-    width: 100%;
-  }
 
-    .vignette:after {
-      content: "";
-      position: absolute;
-      display: block;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      border-collapse: separate;
-      box-shadow: inset 0 0 40px 20px rgba(0, 0, 0, 0.7);
-    }
+/* Stylised Text */
+.brochure {
+  color: #082A52;
+  font-size: 1.5rem;
+  font-family: "Crimson Text"
+}
 
-    .vignette.vignette-small:after {
-      box-shadow: inset 0 0 20px 10px rgba(0, 0, 0, 0.7);
-    }
+p.brochure {
+  width: 80%;
+  margin-left: 10%;
+}
 
-    .vignette.vignette-large:after {
-      box-shadow: inset 0 0 80px 40px rgba(0, 0, 0, 0.7);
-    }
-
-  .panel {
-    background-color: blue;
-    padding: 1em;
-    color: white;
-  }
-
-    .panel .faded {
-      color: blue;
-    }
-
-  img {
-    max-width: 100%;
-  }
-
-  /* Stop the toggler dropping onto a new line*/
-  @media (max-width: 500px) {
-    .navbar-brand {
-      display: contents;
-    }
-
-      .navbar-brand img {
-        max-width: 70%;
-      }
-  }
-
-  /* Stylised Text */
-  .brochure {
-    color: #082A52;
-    font-size: 1.5rem;
-    font-family: "Crimson Text"
-  }
-
-  p.brochure {
-    width: 80%;
-    margin-left: 10%;
-  }
-
-  .brochure strong {
-    background-color: #F7F2EB;
-    color: #D56F3E;
-    font-weight: bolder;
-  }
+.brochure strong {
+  background-color: #F7F2EB;
+  color: #D56F3E;
+  font-weight: bolder;
+}
