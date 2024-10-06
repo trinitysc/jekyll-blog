@@ -323,7 +323,7 @@ p.brochure {
 }
 
 
-/* Image Slider: by Temani Alif https://codepen.io/t_afif/pen/WNyoOKR */
+/* Image Slider: by Temani Alif https://css-tricks.com/css-only-infinite-and-circular-image-slider/ */
 /* number of images*/
 .gallery {
   --s: 280px;
