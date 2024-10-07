@@ -1,5 +1,17 @@
 media: media
 content:
+  - name: events
+    label: Events
+    type: collection
+    path: _events
+    view:
+      fields: [ title, tag, order ]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: tag , label: Tag, required: true, type: select, options: { values: [ "visitors", "youth", "men", "women", "seniors", "kids", "all" ] } }
+      - { name: date, label: Date, type: date }
+      - { name: body, label: Body, type: rich-text }
+      - { name: order, label: Order, type: number }
   - name: ministries
     label: Ministries
     type: collection
@@ -10,17 +22,6 @@ content:
       - { name: title, label: Title, type: string, required: true }
       - { name: banner, label: Banner image, type: image }
       - { name: order, label: Order, type: number }
-  - name: events
-    label: Events
-    type: collection
-    path: _team
-    view:
-      fields: [ title, tag, order ]
-    fields:
-      - { name: title, label: Title, type: string, required: true }
-      - { name: tag , label: Tag, required: true, type: select, options: { values: [ "visitors", "youth", "men", "women", "seniors", "kids", "all" ] } }
-      - { name: date, label: Date, type: date }
-      - { name: body, label: Body, type: rich-text }
   - name: team
     label: Team
     type: collection
@@ -42,6 +43,7 @@ content:
     fields:
       - { name: name , label: Name, type: string, required: true }
       - { name: location , label: Location, type: string, required: true }
+      - { name: image, label: Image, type: image }
       - { name: order, label: Order, type: number }
       - { name: body, label: Body, type: rich-text }
   - name: posts
