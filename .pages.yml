@@ -1,18 +1,48 @@
 media: media
 content:
+  - name: ministries
+    label: Ministries
+    type: collection
+    path: _ministries
+    view:
+      fields: [ title, order ]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: banner, label: Banner image, type: image }
+      - { name: order, label: Order, type: number }
+  - name: events
+    label: Events
+    type: collection
+    path: _team
+    view:
+      fields: [ title, tag, order ]
+    fields:
+      - { name: title, label: Title, type: string, required: true }
+      - { name: tag , label: Tag, required: true, type: select, options: { values: [ "visitors", "youth", "men", "women", "seniors", "kids", "all" ] } }
+      - { name: date, label: Date, type: date }
+      - { name: body, label: Body, type: rich-text }
   - name: team
     label: Team
     type: collection
     path: _team
     view:
-      fields: [ cover, title ]
+      fields: [ image, name, order ]
     fields:
-      - { name: layout, type: string, hidden: true, default: post }
-      - { name: cover, label: Cover image, type: image }
-      - { name: title, label: Title, type: string, required: true }
-      - { name: categories, label: Categories, type: select, options: { values: [ "misc", "junk" ] } }
-      - { name: author, label: Authors, type: string, list: true }
-      - { name: meta, label: Meta, type: string }
+      - { name: name , label: Name, type: string, required: true }
+      - { name: role , label: Role, type: string, required: true }
+      - { name: image, label: Cover image, type: image }
+      - { name: order, label: Order, type: number }
+      - { name: body, label: Body, type: rich-text }
+  - name: missions
+    label: Missions
+    type: collection
+    path: _missions
+    view:
+      fields: [ image, location, order ]
+    fields:
+      - { name: name , label: Name, type: string, required: true }
+      - { name: location , label: Location, type: string, required: true }
+      - { name: order, label: Order, type: number }
       - { name: body, label: Body, type: rich-text }
   - name: posts
     label: Posts
