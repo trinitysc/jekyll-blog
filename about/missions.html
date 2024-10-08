@@ -13,7 +13,7 @@ permalink: /about/missions
 <div class="row">
   {% assign missions = site.missions | where_exp: "mission", "mission.order>0" | sort:"order" %}
   {% for mission in missions %}
-  <div class="col-sm-4">
+  <div class="col-sm-4 scroll-animate scroll-once fade-in">
     <div class="card text-white bg-success mb-3">
       <img src="{{ mission.image | relative_url }}" class="card-img-top" alt="{{ mission.name }}" />
       <div class="card-body">
