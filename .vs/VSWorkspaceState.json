@@ -1,16 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ministries",
-    "\\script",
-    "\\visit",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\scripts",
+    "\\media\\missions",
     "\\_events",
-    "\\_layouts",
-    "\\_missions",
-    "\\_posts",
-    "\\_sass",
-    "\\_team"
+    "\\_posts"
   ],
-  "SelectedNode": "\\_posts\\2016-05-20-this-post-demonstrates-post-content-styles.md",
+  "SelectedNode": "\\assets\\scripts\\site.js",
   "PreviewInSolutionExplorer": false
 }
