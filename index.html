@@ -35,7 +35,9 @@ permalink: /
     <div class="row mt-2 p-0">
         <div class="col-12 scroll-animate fade-in-bottom scroll-once">
           <h2>Last week's Sermon</h2>
-          <p>We are currently preaching through the book of Exodus (which is much more interesting than that might sound). Listen to our latest sermon on Spotify, or check out our full <a href="/listen">Sermon Archive</a>. We recently published our 1,000th sermon!</p>
+          <p>Each week we look at a passage of the Bible to think about what God is saying and how it applies to us today.
+          We are currently preaching through the book of Exodus.
+          Listen to our latest sermon on Spotify, or check out our full <a href="/listen">Sermon Archive</a>. We recently published our 1,000th sermon!</p>
         </div>
       </div>
       <div class="row mb-4 p-0">
@@ -57,12 +59,6 @@ permalink: /
           <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
           <h4>{{ event.title }} </h4>
           {{ event.content }}
-
-          {% if event.tag == "visitors" %}
-          <span class="badge badge-pill badge-info">{{ event.tag }}</span>
-          {% else %}
-          <span class="badge badge-pill badge-secondary">{{ event.tag }}</span>
-          {% endif %}
         </div>
         {% endif %}
         {% endfor %}

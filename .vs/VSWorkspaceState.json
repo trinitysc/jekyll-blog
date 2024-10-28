@@ -1,13 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
+    "\\about",
     "\\assets\\css",
     "\\assets\\scripts",
-    "\\media\\missions",
-    "\\_events",
+    "\\fullscreen",
+    "\\media",
     "\\_posts"
   ],
-  "SelectedNode": "\\assets\\scripts\\site.js",
+  "SelectedNode": "\\media\\series",
   "PreviewInSolutionExplorer": false
 }
