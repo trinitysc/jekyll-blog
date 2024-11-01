@@ -1,4 +1,5 @@
 ---
+layout: event
 title: Welcome Lunch
 tag: visitors
 date: 2024-11-17

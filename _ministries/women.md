@@ -1,5 +1,6 @@
 ---
-title: Women's
+layout: ministry
+title: Women's Ministry
 banner:
 order: 6
 ---

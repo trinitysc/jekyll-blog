@@ -17,11 +17,18 @@ collections:
     output: true
   events:
     output: true
+    permalink: "/events/:name"
   missions:
     output: true
   series:
     output: true
 
+excerpt_separator: <!--excerpt end-->
+
+# Allow pages with a data attribute to be displayed even if the date is in the future
+# (Default is to return a 404)
+future:
+  true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

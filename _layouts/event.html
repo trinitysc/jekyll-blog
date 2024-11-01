@@ -1,0 +1,33 @@
+---
+layout: base
+---
+
+{% if page.banner %}
+<div class="banner vignette vignette-small p-0 m-0">
+  <img style="width:100%" alt="{{ page.title }}" src="{{ page.banner | relative_url }}" />
+</div>
+{% endif %}
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <header>
+        <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
+        <h1>{{ page.title | escape }}</h1>
+
+        {% if page.image %}
+        <img style="width:100%" alt="banner" src="{{ page.image | relative_url }}" />
+        {% endif %}
+
+      </header>
+    </div>
+  </div>
+  <main>
+    {{ content }}
+    <div class="row jumbotron p-3 mb-3 scroll-animate fade-in-bottom scroll-once">
+      <div class="col">
+        <p>Interested in coming, but have questions? <a href="/contact">Let us know</a>.</p>
+        <a class="btn btn-primary" href="/contact">Contact Us</a>
+      </div>
+    </div>
+  </main>
+</div>

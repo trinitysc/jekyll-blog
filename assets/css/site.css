@@ -16,6 +16,9 @@ body > footer {
   top: 100vh;
 }
 
+.navbar-nav.secondary .nav-link {
+  color: #808181;
+}
 
 /* Vignette: https://codepen.io/burtclan/pen/NgPjva */
 .vignette {
@@ -430,9 +433,6 @@ p.brochure {
   .in-banner {
     left: calc(50vw - 360px);
   }
-
-
-
 }
 /* Large devices (desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
@@ -442,9 +442,6 @@ p.brochure {
     margin-right: 5%;
   }
 
-    .navbar-nav.secondary .nav-link {
-      color: #808181;
-    }
 
   .in-banner {
     max-width: 960px;

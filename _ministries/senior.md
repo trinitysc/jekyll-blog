@@ -1,4 +1,5 @@
 ---
+layout: ministry
 title: Seniors
 banner:
 order: 7

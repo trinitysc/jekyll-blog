@@ -1,4 +1,5 @@
 ---
+layout: event
 title: Prayer Meeting
 tag: members
 date: 2024-11-19

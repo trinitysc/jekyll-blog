@@ -1,4 +1,5 @@
 ---
+layout: staff
 name: David Thompson
 role: Assistant to the Minister
 image: /media/team/david-thompson.jpg

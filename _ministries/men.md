@@ -1,4 +1,5 @@
 ---
+layout: ministry
 title: Men's Ministry
 banner:
 order: 5

@@ -15,8 +15,8 @@ permalink: /members/
   {% if event_date >= today_date %}
   <div class="col-sm-4 mb-3 scroll-animate fade-in-bottom scroll-once">
     <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
-    <h3>{{ event.title }} </h3>
-    {{ event.content }}
+    <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
+    {{ event.excerpt }}
 
     {% if event.tag == "visitors" %}
     <span class="badge badge-pill badge-info">{{ event.tag }}</span>
@@ -26,11 +26,5 @@ permalink: /members/
   </div>
   {% endif %}
   {% endfor %}
-</div>
-<div class="row jumbotron p-3 mb-3 scroll-animate fade-in-bottom scroll-once">
-  <div class="col">
-    <p>Interested in coming to one of the events? <a href="/contact">Let us know</a>.</p>
-    <a class="btn btn-primary" href="/contact">Contact Us</a>
-  </div>
 </div>
 

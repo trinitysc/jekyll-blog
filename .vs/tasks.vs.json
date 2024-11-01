@@ -9,6 +9,11 @@
       "args": [
         "bundle exec jekyll serve"
       ]
+    },
+    {
+      "taskLabel": "task-tim-course",
+      "appliesTo": "_events/tim-course.md",
+      "type": "launch"
     }
   ]
 }

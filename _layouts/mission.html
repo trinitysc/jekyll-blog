@@ -1,0 +1,25 @@
+---
+layout: base
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <header>
+        <p class="mb-0 mt-4" style="color:#999;"><b>{{ page.location }}</b></p>
+        <h1 class="mt-0">{{ page.name | escape }}</h1>
+      </header>
+    </div>
+  </div>
+  <main>
+    <div class="row">
+      <div class="col-md-6">
+        <img src="{{ page.image }}" alt="{{page.name}}" />
+      </div>
+      <div class="col-md-6">
+        {{ content }}
+      </div>
+    </div>
+  </main>
+
+</div>

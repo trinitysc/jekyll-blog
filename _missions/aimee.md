@@ -1,4 +1,5 @@
 ---
+layout: mission
 name: Aimee Gray
 location: Sydney
 image: /media/missions/aimee.jpg

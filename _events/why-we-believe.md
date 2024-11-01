@@ -1,4 +1,5 @@
 ---
+layout: event
 title: Why we Believe
 tag: visitors
 date: 2024-11-10

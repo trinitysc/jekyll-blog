@@ -22,14 +22,15 @@ permalink: /events/
   {% if event_date >= today_date %}
   <div class="col-sm-4 mb-3 scroll-animate fade-in-bottom scroll-once">
     <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
-    <h3>{{ event.title }} </h3>
-    {{ event.content }}
-
+    <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
+    {{ event.excerpt }}
     {% if event.tag == "visitors" %}
     <span class="badge badge-pill badge-info">{{ event.tag }}</span>
     {% else %}
     <span class="badge badge-pill badge-secondary">{{ event.tag }}</span>
     {% endif %}
+
+    <style scoped> p { margin-bottom: 1px;} </style>
   </div>
   {% endif %}
   {% endfor %}
