@@ -1,11 +1,11 @@
----
+een---
 layout: ministry
 title: Women's Ministry
 banner:
 order: 6
 ---
 
-As well as our womens’s fellowship groups, we also have a variety of events tailored for women.
-
-There are annual weekends away, conferences, afternoon teas, book clubs, and more.
+As well as our Women on Wednesday fellowship group, we have a variety of events tailored for women. 
+There is an annual weekend away, an annual women's conference, as well as occasional afternoon 
+teas and book clubs.
 

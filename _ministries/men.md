@@ -5,7 +5,6 @@ banner:
 order: 5
 ---
 
-As well as our men’s fellowship groups, we also have a variety of events tailored for men.
-
-There are annual weekends away, conferences, men’s breakfasts, and more.
-
+We have a men’s fellowship group on Thursday mornings before work. We also have an
+an annual men's weekend away, usually late winter/early sprinng, as well as an annual men's conference.
+Occasionally we also run a (typically bacon-heavy) men's breakfast.

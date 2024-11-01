@@ -7,9 +7,8 @@ banner: /media/banners/after-church.jpg
 
 {% assign ministries = site.ministries | sort:"order"  %}
 {% for ministry in ministries %}
-<h2 class="mt-4"><a href="{{ ministry.url | relative_url }}">{{ ministry.title }}</a></h2>
-{{ ministry.excerpt }}
-<a href="{{ ministry.url | relative_url }}">more...</a>
+<h2 class="mt-4">{{ ministry.title }}</h2>
+{{ ministry.content}}
 {% endfor %}
 
 <style scoped>p { margin-bottom: 0.5rem; }</style>
