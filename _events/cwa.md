@@ -3,6 +3,7 @@ layout: event
 title: Church Weekend Away
 tag: members
 date: 2025-03-14
+permalink: /cwa
 ---
 
 

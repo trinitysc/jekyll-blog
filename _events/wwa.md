@@ -3,6 +3,7 @@ layout: event
 title: Women's Weekend Away
 tag: members
 date: 2024-06-13
+permalink: /wwa
 ---
 
 This year’s Trinity WWA is Thursday 13th to Saturday 15th June in Hanmer Springs. The cost for the weekend is $90. Please fill out the form below to register, and for more information, contact Maria Thompson.
