@@ -287,7 +287,7 @@ p.brochure {
   transition: opacity 500ms;
 }
 
-  .scroll-animate.scrolled {
+  .scroll-animate.scrolled-once {
     opacity: 1;
   }
 
