@@ -19,7 +19,7 @@ const displayScrollElement = (element) => {
 };
 
 const hideScrollElement = (element) => {
-  if (element.classList.contains("scroll-once") && element.classList.conaints("scrolling")) {
+  if (element.classList.contains("scroll-once") && element.classList.contains("scrolling")) {
     element.classList.add("scrolled-once");
   }
   element.classList.remove("scrolling");

@@ -55,8 +55,8 @@ title: Feedback
         let div = document.createElement("div");
         div.classList.add('alert');
         div.classList.add('alert-success');
-        document.createTextNode(response);
-        myAnchor.parentNode.replaceChild(form, div);
+        div.innerHTML = "Thank you, your feedback has been sent!";
+        form.parentNode.replaceChild(div, form);
       })
     .catch(error => console.log(error));
   }
