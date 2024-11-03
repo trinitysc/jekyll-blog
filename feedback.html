@@ -5,19 +5,26 @@ title: Feedback
 
 
 <form method="POST" id="form">
-  <label name="First Name">First Name</label>
-  <input type="text" name="First Name" placeholder="First Name" />
+  <div class="mb-3">
+    <label name="First Name" class="form-label">First Name</label>
+    <input type="text" name="First Name" placeholder="First Name" class="form-control" />
+  </div>
 
-  <label name="Last Name">Last Name</label>
-  <input type="text" name="Last Name" placeholder="Last Name" />
+  <div class="mb-3">
+    <label name="Last Name" class="form-label">Last Name</label>
+    <input type="text" name="Last Name" placeholder="Last Name" class="form-control"/>
+  </div>
 
-  <label name="Email">Email</label>
-  <input type="text" name="Email" placeholder="Email" />
+  <div class="mb-3">
+    <label name="Email" class="form-label">Email</label>
+    <input type="text" name="Email" placeholder="Email" class="form-control"/>
+  </div>
 
-  <label name="Message">Message</label>
-  <input type="text" name="Message" placeholder="Message" />
+  <div class="mb-3">
+    <label name="Message" class="form-label">Message</label>
+    <textarea name="Message" placeholder="Message" class="form-control" rows="5"></textarea>
+  </div>
 
-  <!-- override the redirect URL -->
   <input type="hidden" name="_gs_override_redirect_url"
          value="https://www.goodsheet.io/s/thank-you" />
 
@@ -25,7 +32,7 @@ title: Feedback
   <input type="hidden" name="_gs_honeypot"
          style="display: none !important">
 
-  <input type="submit" value="Submit" />
+  <input type="submit" value="Submit" class="btn btn-primary"/>
 </form>
 
 <script>
@@ -43,7 +50,14 @@ title: Feedback
         "Accept": "application/json",
       },
     })
-    .then(response => console.log(response))
+      .then(response => {
+        let form = document.getElementById("form");
+        let div = document.createElement("div");
+        div.classList.add('alert');
+        div.classList.add('alert-success');
+        document.createTextNode(response);
+        myAnchor.parentNode.replaceChild(form, div);
+      })
     .catch(error => console.log(error));
   }
 </script>
