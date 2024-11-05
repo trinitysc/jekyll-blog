@@ -4,9 +4,9 @@ title: Rosters
 permalink: /rosters/
 ---
 
-In the coming month we will be preparing the serving rosters for our services for September – November 2024.
+In the coming month we will be preparing the serving rosters for our services for December 2024 - Febraury 2025.
 
-Please fill out this form by Sunday the 18th of August to let us know in what ways you can serve, and which dates you know you will be available for during that period.
+Please fill out this form by Sunday the 17th of November to let us know in what ways you can serve, and which dates you know you will be available for during that period.
 
 If you are looking to continue to serve in the same way, serve in a new way, or come off a serving roster, it would be great to hear from you! If you want to try something new, but aren’t sure if you are ready to commit, let Mackenzie know when you fill out the form, and she can work with you on this. 
 Feel free to ask David or [Mackenzie](info@trinitysc.nz) for more information. 
