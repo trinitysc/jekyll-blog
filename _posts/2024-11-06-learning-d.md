@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning :D "
+title: Learning
 categories: misc
 meta: "I am learning how to do this "
 ---
