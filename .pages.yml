@@ -32,6 +32,7 @@ content:
     fields:
       - { name: name , label: Name, type: string, required: true }
       - { name: role , label: Role, type: string, required: true }
+      - { name: banner , label: Show in Lead, type: boolean, required: true }
       - { name: image, label: Cover image, type: image }
       - { name: order, label: Order, type: number }
       - { name: body, label: Body, type: rich-text }
