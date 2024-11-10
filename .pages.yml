@@ -1,15 +1,30 @@
 media: media
 content:
+  - name: articles
+    label: Events
+    type: collection
+    path: _articles
+    view:
+      fields: [ layout, title, tag, date, permalink, order ]
+    fields:
+      - { name: layout, type: string, hidden: false, default: article, required: true }
+      - { name: title, label: Title, type: string, required: true }
+      - { name: tag , label: Tag, required: true, type: select, options: { values: [ "visitors", "members", "youth", "men", "women", "seniors", "kids", "all" ] } }
+      - { name: permalink, label: Url, type: string }
+      - { name: body, label: Body, type: rich-text }
+      - { name: order, label: Order, type: number }
   - name: events
     label: Events
     type: collection
     path: _events
     view:
-      fields: [ title, tag, order ]
+      fields: [ layout, title, tag, date, permalink, order ]
     fields:
+      - { name: layout, type: string, hidden: false, default: event, required: true }
       - { name: title, label: Title, type: string, required: true }
-      - { name: tag , label: Tag, required: true, type: select, options: { values: [ "visitors", "youth", "men", "women", "seniors", "kids", "all" ] } }
+      - { name: tag , label: Tag, required: true, type: select, options: { values: [ "visitors", "members", "youth", "men", "women", "seniors", "kids", "all" ] } }
       - { name: date, label: Date, type: date }
+      - { name: permalink, label: Url, type: string }
       - { name: body, label: Body, type: rich-text }
       - { name: order, label: Order, type: number }
   - name: ministries
@@ -17,8 +32,9 @@ content:
     type: collection
     path: _ministries
     view:
-      fields: [ title, order ]
+      fields: [ layout, title, banner, order ]
     fields:
+      - { name: layout, type: string, hidden: false, default: ministry, required: true }
       - { name: title, label: Title, type: string, required: true }
       - { name: banner, label: Banner image, type: image }
       - { name: order, label: Order, type: number }
@@ -28,8 +44,9 @@ content:
     type: collection
     path: _team
     view:
-      fields: [ image, name, order ]
+      fields: [ layout, name, role, image, order, banner ]
     fields:
+      - { name: layout, type: string, hidden: false, default: staff, required: true }
       - { name: name , label: Name, type: string, required: true }
       - { name: role , label: Role, type: string, required: true }
       - { name: banner , label: Show in Lead, type: boolean, required: true }
@@ -41,8 +58,9 @@ content:
     type: collection
     path: _missions
     view:
-      fields: [ image, location, order ]
+      fields: [ layout, name, location, image, order ]
     fields:
+      - { name: layout, type: string, hidden: false, default: mission, required: true }
       - { name: name , label: Name, type: string, required: true }
       - { name: location , label: Location, type: string, required: true }
       - { name: image, label: Image, type: image }

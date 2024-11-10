@@ -11,6 +11,8 @@ description: >-
   Our desire is to hear Jesus speak, see Jesus work, and share Jesus’ love.
 
 collections:
+  articles:
+    output: true
   team:
     output: true
   ministries:
@@ -29,6 +31,7 @@ excerpt_separator: <!--excerpt end-->
 # (Default is to return a 404)
 future:
   true
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
