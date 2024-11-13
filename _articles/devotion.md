@@ -19,8 +19,9 @@ so keep at it!
 
 ## Follow a reading plan
 
-Having a guide or a plan can be a wonderful support in getting us reading the Bible. Robert Murray M’Cheyne's
-[reading plan](https://www.mcheyne.info/calendar.pdf) has been a blessing to devout Christians since the mid 1800's. 
+Having a guide or a plan can be a wonderful support in getting us reading the Bible. At Trinity we are
+currently using [this reading plan](https://mcusercontent.com/230f84425691a35de50182bb4/files/3540ebc0-492f-0315-a360-807cb425e855/Bible_Reading_Spring_2024_for_pdf.pdf).
+Robert Murray M’Cheyne's [reading plan](https://www.mcheyne.info/calendar.pdf) has been a blessing to devout Christians since the mid 1800's. 
 Some may prefer a [Bible Reading plan for Shirkers & Slackers](https://ransomfellowship.org/wp-content/uploads/2017/03/Bible-Reading-Program-for-Shirkers-and-Slackers.pdf).
 Some may want [match a plan with their reading intensity](http://voices.lifeway.com/discipleship-evangelism/find-a-bible-reading-plan-thats-right-for-you/). 
 Or your Bible may have already come with a reading plan.
@@ -41,5 +42,11 @@ It might be as creative as a prayer diary, maybe with an App (for example, check
 It might pick up prayers written by others, like [Charles Spurgeon](https://www.spurgeongems.org/spurgeon-prayers/),
 or even [those of Jesus](https://www.crossway.org/books/the-prayers-of-jesus-tpb/).
 
-
-
+> God of our Lord Jesus Christ, glorious Father, may you give each of us at Trinity, the Spirit of wisdom and revelation, so that we may know you better. 
+>
+> We pray that the eyes of our hearts may be enlightened so that we may know the hope to which you have called us. May we know how much you treasure your holy people as the riches of your glorious inheritance. And may we grasp more of your incomparably great power for us who believe, that same power which you exerted when you raised Christ from the dead and seated him at your right hand. We praise you that Jesus is far above all rule and authority, power and dominion, and every name. Give us joy as we remember that you placed all things under Jesus’ feet and appointed him to be head over everything for our sake as your church, Jesus’ body.
+> 
+> Lord, may these truths grip and thrill us so that Trinity might be full of thanks and joy, being eager to live for you all our days.
+>
+> In Jesus name, Amen
+{: .alert-info .rounded .p-3}
