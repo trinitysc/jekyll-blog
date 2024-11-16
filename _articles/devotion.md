@@ -20,7 +20,8 @@ so keep at it!
 ## Follow a reading plan
 
 Having a guide or a plan can be a wonderful support in getting us reading the Bible. At Trinity we are
-currently using [this reading plan](https://mcusercontent.com/230f84425691a35de50182bb4/files/3540ebc0-492f-0315-a360-807cb425e855/Bible_Reading_Spring_2024_for_pdf.pdf).
+currently using [this reading plan](https://mcusercontent.com/230f84425691a35de50182bb4/files/3540ebc0-492f-0315-a360-807cb425e855/Bible_Reading_Spring_2024_for_pdf.pdf),
+which roughly lines up with the passages we're looking at on Sundays and in Fellowship Groups.
 Robert Murray M’Cheyne's [reading plan](https://www.mcheyne.info/calendar.pdf) has been a blessing to devout Christians since the mid 1800's. 
 Some may prefer a [Bible Reading plan for Shirkers & Slackers](https://ransomfellowship.org/wp-content/uploads/2017/03/Bible-Reading-Program-for-Shirkers-and-Slackers.pdf).
 Some may want [match a plan with their reading intensity](http://voices.lifeway.com/discipleship-evangelism/find-a-bible-reading-plan-thats-right-for-you/). 
@@ -41,6 +42,8 @@ At its simplest, prayer involves expressing gratitude, asking for forgiveness, a
 It might be as creative as a prayer diary, maybe with an App (for example, check out [Prayer Mate](https://www.prayermate.net/app)).
 It might pick up prayers written by others, like [Charles Spurgeon](https://www.spurgeongems.org/spurgeon-prayers/),
 or even [those of Jesus](https://www.crossway.org/books/the-prayers-of-jesus-tpb/).
+
+This is a prayer which we prayed when we were reading through [Ephesians](https://listen.trinitysc.nz/browse/series/80) together.
 
 > God of our Lord Jesus Christ, glorious Father, may you give each of us at Trinity, the Spirit of wisdom and revelation, so that we may know you better. 
 >

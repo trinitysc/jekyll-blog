@@ -1,14 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\assets\\css",
     "\\assets\\scripts",
-    "\\media\\events",
     "\\ministries",
-    "\\_posts",
-    "\\_team"
+    "\\_articles",
+    "\\_events",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\_team\\grace-phillips.md",
+  "SelectedNode": "\\_events\\equip.md",
   "PreviewInSolutionExplorer": false
 }
