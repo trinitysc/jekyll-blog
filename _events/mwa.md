@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Men's Weekend Away
-tag: members
+tags: members
 date: 2024-09-05
 permalink: /mwa
 ---

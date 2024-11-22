@@ -1,14 +1,13 @@
 ---
 layout: article
 title: Devotion
-tag: members
+tags: members visitors
 permalink: /stepping-up/devotion
 ---
 
+Many of us find it hard to keep persevering at reading the Bible and praying. Here's a bunch of things you can try to improve your devotional life.
 
-Many of us find it hard to keep persevering at reading the Bible and praying. Here's a bunch of things you can
-try to improve your devotional life.
-
+<!--excerpt end-->
 ## Plan to read
 
 The urgent is the enemy of the important, and there will always be things which feel more urgent that reading (or listening) to the Bible. 

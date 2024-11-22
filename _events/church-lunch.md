@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Church Lunch
-tag: members
+tags: members, visitors
 date: 2024-11-24
 ---
 

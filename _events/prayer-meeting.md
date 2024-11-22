@@ -1,6 +1,6 @@
 ---
 title: Evening Prayer Meeting
-tag: members
+tags: members
 date: 2024-11-19
 ---
 Our evening Church wide prayer meeting will be held on Tuesday the 19th of November from 7:30-9pm. 

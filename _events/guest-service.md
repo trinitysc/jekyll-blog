@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Take a Walk in My Worldview
-tag: visitors
+tags: visitors
 date: 2024-11-03
 image: media/events/splendour-and-suffering.png
 ---

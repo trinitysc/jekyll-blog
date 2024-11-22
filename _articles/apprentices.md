@@ -3,14 +3,18 @@ layout: article
 title: Ministry Apprentices
 banner: /media/banners/ministry-apprentices.jpg
 permalink: /ministry-apprentices
+tags: members
 order: 6
 ---
 
-Ministry apprenticeship positions next year to Grace Phillips, Mackenzie Shewan, and Pam Walters.  Isn't that great!  Here are two of the reasons why it is exciting to hear about people starting ministry apprenticeships:
+We have offered Ministry apprenticeship positions next year to Grace Phillips, Mackenzie Shewan, and Pam Walters.  We are currently raising funds to enable them to take up these positions.
+<!--excerpt end-->
+
+Here are two of the reasons why it is exciting to hear about people starting ministry apprenticeships:
 - It's good for the lost.  In Matthew 9:37-38 Jesus famously says to his disciples, "The harvest is plentiful but the workers are few.  Ask the Lord of the harvest, therefore, to send out workers into his harvest field." Having more people trained to share the word of Jesus, we pray, will lead to more people hearing about Jesus and being saved by the grace of God, not just here and now but in the future and elsewhere. 
 - It's good for the church.  Read 1 Corinthians 12 and Ephesians 4 and you will read about the body of Christ.  Who is it who serves or works in the body of Christ?  We all do!  "From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work." (Eph. 4:16)  These apprenticeships give a great opportunity to encourage them in service and for them to encourage us in service.
 
-The plan is for Grace, Mackenzie, and Pam to begin their two-year apprenticeships in early 2025. They will be paid by Trinity out of our (new) Ministry Training Fund. 
+The plan is for Grace, Mackenzie, and Pam to begin their two-year apprenticeships in early 2025. They will be paid by Trinity out of our (new) Ministry Training Fund. The apprenticeship follows the structure created by [Multiply NZ](https://multiply.co.nz/apprenticeships/) and used at Latimer and Cornerstone. Apprentices work for 27 hours per week, with 13 allocated to study. 
 
 Our aim is that we as a congregation can raise a total of $65,000 per year to cover half of the base salaries and a share of the training costs. There will be more announcements over the next couple of weeks, but please be praying about how you might support this. 
 

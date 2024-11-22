@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Women's Weekend Away
-tag: members
+tags: members
 date: 2024-06-13
 permalink: /wwa
 ---

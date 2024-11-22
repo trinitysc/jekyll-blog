@@ -1,7 +1,7 @@
 ---
 layout: event
 title: SALT Senior Retreat
-tag: youth
+tags: youth members
 date: 2024-12-06
 permalink: /retreat
 ---

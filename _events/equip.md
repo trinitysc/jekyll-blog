@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Equip
-tag: members
+tags: members
 date: 2025-01-06
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Tim Course Info Evening
-tag: members
+tags: members
 date: 2024-11-4
 ---
 

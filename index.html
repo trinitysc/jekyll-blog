@@ -51,14 +51,14 @@ permalink: /
         </div>
 
         {% assign today_date = 'today' | date: '%s' %}
-        {% assign events = site.events | where: "tag", "visitors" | order: "date"  %}
+        {% assign events = site.events | where_exp: "event", "event.tags contains 'visitors'" | order: "date"  %}
         {% for event in events %}
         {% assign event_date = event.date | date: '%s' %}
         {% if event_date >= today_date %}
         <div class="col-sm-4 mb-3">
           <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
           <h4>{{ event.title }} </h4>
-          {{ event.content }}
+          {{ event.excerpt }}
         </div>
         {% endif %}
         {% endfor %}

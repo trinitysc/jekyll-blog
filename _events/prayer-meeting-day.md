@@ -1,6 +1,6 @@
 ---
 title: Daytime Prayer Meeting
-tag: members
+tags: members
 date: 2024-11-20
 ---
 Our daytime Church wide prayer meeting will be held on Wednesday the 20th of November from 10:00-11:30 am. 

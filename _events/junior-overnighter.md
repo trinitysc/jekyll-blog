@@ -1,8 +1,8 @@
 ---
 layout: event
 title: SALT Junior Overnighter
-date: 2024-11-23
-tag: youth
+date: 2024-11-22
+tags: youth members
 permalink: /overnighter
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Risen Night
-tag: youth
+tags: youth
 date: 2024-09-27
 ---
 Our annual night conference with other CCA youth groups is happening again 
