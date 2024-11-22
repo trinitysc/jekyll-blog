@@ -50,5 +50,5 @@ This is a prayer which we prayed when we were reading through [Ephesians](https:
 > 
 > Lord, may these truths grip and thrill us so that Trinity might be full of thanks and joy, being eager to live for you all our days.
 >
-> In Jesus name, Amen
+> In Jesus' name, Amen
 {: .alert-info .rounded .p-3}
