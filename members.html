@@ -6,22 +6,13 @@ permalink: /members/
 
 <div class="row mt-4 p-1 jumbotron">
   <div class="col-12">
-    <h2>Serving</h2>
-    <p>In the coming weeks we will be putting together the 10:45am seasonal serving rosters for December - February.</p>
-    <p>To assist Mackenzie with this please fill in the <a href="/rosters">rosters form</a> with the areas you would like to serve in, and what dates you are available.</p>
+      <h2>Serving</h2>
+      <p>In the coming weeks we will be putting together the 10:45am seasonal serving rosters for December - February.</p>
+      <p>To assist Mackenzie with this please fill in the <a href="/rosters">rosters form</a> with the areas you would like to serve in, and what dates you are available.</p>
   </div>
 </div>
 
 
-<div class="row">
-  {% assign articles = site.articles |  where_exp: "article", "article.tags contains 'members'" | order: "date"  %}
-  {% for article in articles %}
-  <div class="col-sm-4 mb-3 scroll-animate fade-in-bottom scroll-once">
-    <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
-    {{ article.excerpt }}
-  </div>
-  {% endfor %}
-</div>
 
 
 <h2>Upcoming Member Events</h2>
