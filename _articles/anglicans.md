@@ -69,5 +69,5 @@ Formally, we are part of the Diocese of the [Church of Confessing Anglicans, Aot
 
 For external accountability we also work with the [Multiply Group of Churches](https://multiply.co.nz/) and [Reach Australia](https://reachaustralia.com.au/).
 
-A number of eveents, including annual Men's and Women's Conventions, as well as Risen events for youth, help us to connect with members of our sister churches.
+A number of events, including annual Men's and Women's Conventions, as well as Risen events for youth, help us to connect with members of our sister churches.
 
