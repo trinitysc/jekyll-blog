@@ -65,7 +65,7 @@ Beyond that, we are low church Anglicans in the sense that we place more importa
 
 Being Anglicans also means we are part of something bigger than ourselves. We value being part of a wider family, being able to [support others](/about/missions)), and having others hold us to account.
 
-Formally, we are part of the Diocese of the [Church of Confessing Anglicans, Aotearoa NZ](https://confessinganglicans.nz/). Our bishop is [Jay Behan](https://confessinganglicans.nz/leadership/), a gifted preacher, a winsome communicator, and a moderate golfer. The Diocese is governed by a Standing Committee, of which our Kyla Horne is a member. Our Canons, our rules of operation, can be found [here](https://confessinganglicans.nz/documents/canons/).
+Formally, we are part of the Diocese of the [Church of Confessing Anglicans, Aotearoa NZ](https://confessinganglicans.nz/). Our bishop is [Jay Behan](https://confessinganglicans.nz/leadership/), a gifted preacher, a winsome communicator. As a golfer he's apparently in need of extra grace. The Diocese is governed by a Standing Committee, of which our Kyla Horne is a member. Our Canons, our rules of operation, can be found [here](https://confessinganglicans.nz/documents/canons/).
 
 For external accountability we also work with the [Multiply Group of Churches](https://multiply.co.nz/) and [Reach Australia](https://reachaustralia.com.au/).
 
