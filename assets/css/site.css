@@ -42,15 +42,15 @@ body > footer {
     width: 100%;
     height: 100%;
     border-collapse: separate;
-    box-shadow: inset 0 0 40px 20px rgba(0, 0, 0, 0.7);
+    box-shadow: inset 0 0 40px 20px rgba(0, 0, 0, 0.3);
   }
 
   .vignette.vignette-small:after {
-    box-shadow: inset 0 0 20px 10px rgba(0, 0, 0, 0.7);
+    box-shadow: inset 0 0 20px 10px rgba(0, 0, 0, 0.3);
   }
 
   .vignette.vignette-large:after {
-    box-shadow: inset 0 0 80px 40px rgba(0, 0, 0, 0.7);
+    box-shadow: inset 0 0 80px 40px rgba(0, 0, 0, 0.3);
   }
 
 /* In-banner text is floated above the banner using absolute positioning
@@ -419,6 +419,10 @@ p.brochure {
   }
   .jumbotron {
     border-radius: 15px;
+  }
+
+  .multi-column {
+     column-count:2;
   }
 }
 
