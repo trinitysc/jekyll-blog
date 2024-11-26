@@ -4,40 +4,43 @@ title: Welcome to Trinity
 permalink: /
 ---
 
-<div class="banner vignette vignette-small p-0 m-0" style="position:relative;">
+<div class="banner vignette vignette-small p-0 m-0" style="position:sticky; top:0;">
   <h1 class="in-banner">{{ page.title | escape }}</h1>
   <img style="width:100%" alt="{{ page.title }}" src="/media/banners/people.png" />
 </div>
-<div class="container">
-  <main>
-    <div class="row mt-4 p-1">
-      <div class="col-12">
-        <div class="jumbotron locators row mb-4 p-4">
-          <div class="col-sm-4 p-0 m-0">
-            <h2>Welcome</h2>
-            <p>We meet every Sunday at <b>9 am</b> and <b>10:45 am</b> at <a href="/visit/location">200 Colombo St, Sydenham</a>.<p>
-            <p>We would love to give you a warm welcome.</p>
-            <a class="btn btn-primary" href="/visit/sundays">I'm New</a>
-            <a class="btn btn-info" href="https://www.google.com/maps/dir//200+Colombo+Street,+Sydenham,+Christchurch+8023/" target="_blank">Directions</a>
-          </div>
-          <div class="col-sm-4">
-            <a href="/visit/location"><img src="/media/maps/zoom-2.png" class="round"></a>
-          </div>
-          <div class="col-sm-4">
-            <h2>Our Mission</h2>
-            <p>We are an Anglican evangelical Church made up of Christians of all ages and from all walks of life.  Our desire is to hear Jesus speak, see Jesus work, and share Jesus’ love.</p>
-            <a href="/about/who-we-are" class="btn btn-primary">Find out more</a>
-            <a href="/about/our-leadership" class="btn btn-info">Our Team</a>
+<div style="display:block; padding:0; margin:0; background-color: white; position:relative;">
+  <div class="container pt-4">
+    <main>
+      <div class="row mtb-4">
+        <div class="col-12 mb-1">
+          <div class="jumbotron locators row mb-4 p-4">
+            <div class="col-sm-4 p-0 m-0">
+              <h2>Welcome</h2>
+              <p>We meet every Sunday at <b>9 am</b> and <b>10:45 am</b> at <a href="/visit/location">200 Colombo St, Sydenham</a>.<p>
+              <p>We would love to give you a warm welcome.</p>
+              <a class="btn btn-primary" href="/visit/sundays">I'm New</a>
+              <a class="btn btn-info" href="https://www.google.com/maps/dir//200+Colombo+Street,+Sydenham,+Christchurch+8023/" target="_blank">Directions</a>
+            </div>
+            <div class="col-sm-4">
+              <a href="/visit/location"><img src="/media/maps/zoom-2.png" class="round"></a>
+            </div>
+            <div class="col-sm-4">
+              <h2>Our Mission</h2>
+              <p>We are an Anglican evangelical Church made up of Christians of all ages and from all walks of life.  Our desire is to hear Jesus speak, see Jesus work, and share Jesus’ love.</p>
+              <a href="/about/who-we-are" class="btn btn-primary">Find out more</a>
+              <a href="/about/our-leadership" class="btn btn-info">Our Team</a>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="row mt-2 p-0">
+      <div class="row mt-2 p-0">
         <div class="col-12 scroll-animate fade-in-bottom scroll-once">
           <h2>Last week's Sermon</h2>
-          <p>Each week we look at a passage of the Bible to think about what God is saying and how it applies to us today.
-          We are currently preaching through the book of Exodus.
-          Listen to our latest sermon on Spotify, or check out our full <a href="/listen">Sermon Archive</a>. We recently published our 1,000th sermon!</p>
+          <p>
+            Each week we look at a passage of the Bible to think about what God is saying and how it applies to us today.
+            We are currently preaching through the book of Exodus.
+            Listen to our latest sermon on Spotify, or check out our full <a href="/listen">Sermon Archive</a>. We recently published our 1,000th sermon!
+          </p>
         </div>
       </div>
       <div class="row mb-4 p-0">
@@ -64,5 +67,6 @@ permalink: /
         {% endfor %}
 
       </div>
-</main>
+    </main>
+  </div>
 </div>
