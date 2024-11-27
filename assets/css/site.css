@@ -403,6 +403,10 @@ p.brochure {
     .navbar-brand img {
       max-width: 70%;
     }
+
+    .jumbotron{
+       border-radius:0;
+    }
 }
 
 /* No media query for `xs` since this is the default in Bootstrap
