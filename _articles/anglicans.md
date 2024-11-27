@@ -6,26 +6,27 @@ tags:
 order: 6
 ---
 
-At Trinity we, along with around 110 million people worldwide, are Anglicans. For many of us, and for many of those 110 million, it is not particularly important to us that we are Anglican. Most of us sought a welcomming church that faithfully taught the Bible, and where we could feel part of a church famiily. The beauty of Anglicanism is that it is a broad tent church. Nevertheless, we are Anglicans, and here's what that means to us.
+Members of the Trinity family come from a variety of backgrounds (Anglican churches, other church denominations, and from no church background at all!) and you don’t need to be an Anglican to join our church family. Still, it can be helpful to clear what being Anglican means to us, and perhaps clear away some common misunderstandings.  
 
 <!--excerpt end-->
 
 ## Belief
 
-It means we are Christians. We believe Jesus was the Son of God, was fully God in a way that no other person has ever been, and that he died that we might, through believing in him, have eternal life.
+Being Anglican means we are Christians. We believe Jesus was the Son of God, as fully God and fully man, and that he died that we might, through believing in him, have eternal life.
 
-It means we believe the Bible is God's word, his revelation of who he is and of how we can be in a relationship wih him.
+It means we believe the Bible is God’s word, his revelation of who he is and of how we can be in a relationship with him.
 
 It means we value the voices of the 80-odd generations of Christians who have come before us, and the lessons we can learn from them. We believe church structures are good, because they can hold our leaders to account, and model to us that we serve others, and ultimately God, rather than ourselves.
 
-It means we follow the 16th century reformers, and centuries of believers before them, in believing that it is the Bible that judges our thoughts and traditions, not the other way round. 
+It means we follow the 16th century reformers, and centuries of believers before them, in believing that it is the Bible that judges our thoughts and traditions, not the other way round.
 
 
 ## Theology 
 
-We hold to the historic creeds of the church. Creeds are summaries of the faith, usually developed in response to a specific debate. 
-
-The Nicene Creed was adopted by the church in 325, "the church" meaning a council of bishops convened by the Roman emperor Constantine. It was drawn up to clarify a debate triggered by the charismatic cleric, Arius of Alexandria. The debate concerned the nature of Christ; how he could be fully God and yet somehow distinct from the Father. This is not an easy question to answer, and reason generally fails us when we do. How can we reason into the nature of the infinite? Any reference to experience must be flawed, since we do not experience the infinite. All we really have to go on is revelation; what God tells us of himself. The Nicene Creed nicely summarises what the Bible has to tell us about God. The Apostle's Creed, developed a century or two later, nicely summarises the Nicene Creed:
+Our Statement of Theological Position is reflected in the 39 Articles, the 1662 Book of Common Prayer
+and the Jerusalem Declaration. These in turn affirm the historic creeds (summaries of the faith) of the
+church. We declare what we believe using the words of the Nicene Creed and the Apostles Creed from time
+to time in our services. 
 
 > I believe in God, the Father Almighty,  
 > creator of heaven and earth.  
@@ -57,17 +58,34 @@ For more check out our [sermon series](https://listen.trinitysc.nz/browse/series
 
 ## Church Service
 
-In the contect of a church service, we will regularly say the Apostle's or the Nicene Creed. We also inherit the sacrements of baptism and communion (the Lord's Supper). We celebrate communion once a month at the 10:45 service, twice a month at the 9am service.
+We are low church Anglicans in the sense that our focus is more on building each other up through the
+word, written, spoken, prayed and seen in the sacraments than on visible ritual.
 
-Beyond that, we are low church Anglicans in the sense that we place more importance on preaching and worship than on ritual.
+Our services do have a light liturgical element. For example, we confess our sins together by praying a
+prayer of confession together (from words on the screen). We don’t do this to wallow in our shame.
+Rather, the good news of Jesus encourages us to recognise our sin that we might leave it with God, and
+delight again in his assurance of our forgiveness, and a fresh start. In keeping with its slightly more
+traditional feel, the 9am service has a little more liturgy than the later service, but those from a
+non-liturgical background report they feel at home.
+
+Following Jesus' instruction, we celebrate the sacraments of baptism and communion (the Lord’s Supper).
+We have the Lord’s Supper on the  third Sunday of the month at the 10:45 am service, twice a month at
+the 9am service (on the first and third Sundays). 
+
+Our ministers will sometimes wear clerical collars, but typically won't on the average Sunday. 
 
 ## Wider Family
 
-Being Anglicans also means we are part of something bigger than ourselves. We value being part of a wider family, being able to [support others](/about/missions)), and having others hold us to account.
+Being Anglicans also means we are part of something bigger than ourselves. We value being part of a 
+wider family, being able to [support others](/about/missions)), and having others hold us to account.
 
-Formally, we are part of the Diocese of the [Church of Confessing Anglicans, Aotearoa NZ](https://confessinganglicans.nz/). Our bishop is [Jay Behan](https://confessinganglicans.nz/leadership/), a gifted preacher, a winsome communicator. As a golfer he's apparently in need of extra grace. The Diocese is governed by a Standing Committee, of which our Kyla Horne is a member. Our Canons, our rules of operation, can be found [here](https://confessinganglicans.nz/documents/canons/).
+Formally, we are part of the Diocese of the [Church of Confessing Anglicans, Aotearoa NZ](https://confessinganglicans.nz/). Our bishop is Jay Behan, a gifted preacher, a winsome communicator. As a golfer he's [apparently in need](https://confessinganglicans.nz/leadership/) of extra grace. 
+The Diocese is governed by Synod, on which we are represented by James Baillinger, David Thompson, Kyla Horne, and Joy Penno. Our Canons, our rules of operation, can be found [here](https://confessinganglicans.nz/documents/canons/).
 
-For external accountability we also work with the [Multiply Group of Churches](https://multiply.co.nz/) and [Reach Australia](https://reachaustralia.com.au/).
+For external input we also work with the [Gospel Training Trusty](https://gtt.nz/), 
+the [Multiply Group of Churches](https://multiply.co.nz/),
+and [Reach Australia](https://reachaustralia.com.au/).
 
-A number of events, including annual Men's and Women's Conventions, as well as Risen events for youth, help us to connect with members of our sister churches.
+A number of events, including the annual Men's and Women's Conventions and Equip Conference, as well 
+as Risen events for youth, help our members to connect with those of our sister churches.
 
