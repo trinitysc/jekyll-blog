@@ -1,0 +1,66 @@
+---
+layout: page
+title:
+permalink: /christmas/
+---
+
+<div class="row">
+  <div class="col">
+    <p class="julius" style="text-align:center; margin: auto 15% 1rem; font-weight:bold; color:#777;">Do not be afraid. I bring you good news that will cause great joy for all the people. Today in the town of David a Savior has been born to you; he is the Messiah, the Lord.</p>
+    <picture>
+      <source srcset="/media/events/xmas-overhead.png" media="(min-width: 576px)" />
+      <img src="/media/events/xmas.png" />
+    </picture>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <h4 class="julius" style="text-align: center; margin: 1rem 15%; color: #C1292E; font-weight: bold;">Come join us at Trinity for free, traditional carol services this December.</h4>
+    <p>Whether you're a regular churchgoer, a visitor, an or just looking for a change of pace from <i>All I want for Christmas is You</i>, you'll be most welcome at any of our services. Bring the kids to our pop-up Nativity on the 15th, or come for mulled wine, Christmas cake, candlelight and carols on Christmas Eve. Or come to any of our Sunday Services.</p>
+  </div>
+</div>
+
+<div class="row mb-4 scroll-animate fade-in-bottom scroll-once">
+
+  {% assign today_date = 'today' | date: '%s' %}
+  {% assign events = site.events | where_exp: "event", "event.tags contains 'xmas'" | order: "date"  %}
+  {% for event in events %}
+  {% assign event_date = event.date | date: '%s' %}
+  {% if event_date >= today_date %}
+  <div class="col-md-3 col-sm-6 mb-3">
+    <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
+    <h4 class="julius" style="color: #C1292E; font-weight:bold;">{{ event.title }} </h4>
+    {{ event.excerpt }}
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+<div class="locators pt-3 pl-3 pr-3 mb-4">
+  <div class="row">
+    <div class="col-12 p-3">
+      <h5>
+        Find us at <a href="https://www.google.com/maps/place/200+Colombo+Street,+Sydenham,+Christchurch+8023/@-43.5544488,172.6346094,15z">200 Colombo St, Sydenham</a>.  Have questions?  <a href="/contact">We'd be happy to help</a>.
+      </h5>
+    </div>
+    <div class="col-sm-4 p-3 scroll-animate slide-left scroll-once">
+      <a href="https://www.google.com/maps/place/200+Colombo+Street,+Sydenham,+Christchurch+8023/@-43.5544488,172.6346094,14z" target="_blank">
+        <img src="/media/maps/zoom-1.png">
+      </a>
+      <p>We are located in <b>Sydenham</b>, just south of the Christchurch CBD.</p>
+    </div>
+    <div class="col-sm-4 p-3 scroll-animate fade-in-bottom scroll-once">
+      <a href="https://www.google.com/maps/place/200+Colombo+Street,+Sydenham,+Christchurch+8023/@-43.5544488,172.6346094,16z" target="_blank">
+        <img src="/media/maps/zoom-2.png">
+      </a>
+      <p>Best access is via <b>Colombo Street</b> from the north or south, Tennyson St from the east; or Strickland St from the west.</p>
+    </div>
+    <div class="col-sm-4 p-3 scroll-animate slide-right scroll-once">
+      <a href="https://www.google.com/maps/place/200+Colombo+Street,+Sydenham,+Christchurch+8023/@-43.5544488,172.6346094,18z" target="_blank">
+        <img src="/media/maps/zoom-3.png">
+      </a>
+      <p>There is limited car parking on site. The best streets to park on are Roxburgh St, Boon St, Southey St.</p>
+    </div>
+  </div>
+</div>
+
