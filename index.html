@@ -4,14 +4,25 @@ title: Welcome to Trinity
 permalink: /
 ---
 
-<div class="banner vignette vignette-small p-0 m-0" style="position:sticky; top:0;">
-  <h1 class="in-banner">{{ page.title | escape }}</h1>
-  <img style="width:100%" alt="{{ page.title }}" src="/media/banners/xmas.png" />
+<div class="p-0 m-0" style="position:sticky; top:0;">
+
+  <!--<h1 class="in-banner">{{ page.title | escape }}</h1>-->
+  <a href="/christmas">
+    <picture>
+      <source srcset="/media/banners/xmas.png" media="(min-width: 500px)" />
+      <img src="/media/events/xmas.png" alt="Christmas" />
+    </picture>
+  </a>
 </div>
 <div style="display:block; padding:0; margin:0; background-color: white; position:relative;">
   <div class="container pt-4">
     <main>
-      <div class="row mtb-4">
+      <div class="row">
+        <div class="col">
+          <h1>Welcome to Trinity, <a href="/Christmas" class="btn btn-lg btn-danger">Join us</a> this <a href="/Christmas"><span style="background-color: #FAE6C1; color: #C1292E; font-weight: bold; padding: 1px; ">Christmas</span></a>.</h1>
+        </div>
+      </div>
+      <div class="row">
         <div class="col-12 mb-1">
           <div class="jumbotron locators row mb-4 p-4">
             <div class="col-md-4 p-0 mt-2 mb-2">
@@ -51,10 +62,10 @@ permalink: /
       <div class="row mb-4 p-0">
         <div class="col-12 mb-2">
           <h2 class="mt-3">Upcoming Christmas Events</h2>
-          <a href="/media/events/Xmas overhead.png" target="_blank">
+          <a href="/christmas" target="_blank">
             <picture>
               <source srcset="/media/events/xmas-overhead.png" media="(min-width: 576px)" />
-              <img src="/media/events/xmas.png" />
+              <img src="/media/events/xmas.png" alt="Christmas" />
             </picture>
           </a>
         </div>

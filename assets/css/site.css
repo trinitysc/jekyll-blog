@@ -31,18 +31,24 @@ body > footer {
   color: #808181;
 }
 
+.banner {
+   text-align: center;
+}
+
+/* This tells the browser to zoom in and crop. */
+/* override this for larger srcreens in the media query section */
+.banner img {
+  height: 300px;
+  object-fit: cover;
+  margin: 0 auto;
+}
+
 /* Vignette: https://codepen.io/burtclan/pen/NgPjva */
 .vignette {
   position: relative;
   color: white;
 }
 
-  /* This tells the browser to zoom in and crop. */
-  /* override this for larger srcreens in the media query section */
-  .vignette img {
-    height: 300px;
-    object-fit: cover;
-  }
 
   .vignette:after {
     content: "";
@@ -443,7 +449,7 @@ p.brochure {
 
 /* Medium devices (tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-  .vignette img {
+  .banner img {
     display: inline-block;
     width: 100%;
     height: 100%;
@@ -474,7 +480,7 @@ p.brochure {
     left: calc(50vw - 570px)
   }
 
-  .vignette,.vignette img{
+  .banner,.banner img{
     max-height: 600px;
     object-fit: cover;
   }
