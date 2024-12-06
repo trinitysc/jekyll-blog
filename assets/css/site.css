@@ -6,6 +6,9 @@ h1 {
   text-transform: uppercase;
 }
 
+a {
+   font-weight:bold;
+}
 
 .julius {
   font-family: "Julius Sans One", sans-serif;
