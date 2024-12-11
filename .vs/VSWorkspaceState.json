@@ -1,13 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\assets\\css",
     "\\assets\\scripts",
+    "\\media\\events",
+    "\\media\\ministries",
     "\\ministries",
-    "\\_articles",
-    "\\_events",
-    "\\_layouts"
+    "\\visit"
   ],
-  "SelectedNode": "\\_events\\equip.md",
+  "SelectedNode": "\\assets\\css\\_variables.scss",
   "PreviewInSolutionExplorer": false
 }
