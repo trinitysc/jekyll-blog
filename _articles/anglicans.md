@@ -28,6 +28,11 @@ and the Jerusalem Declaration. These in turn affirm the historic creeds (summari
 church. We declare what we believe using the words of the Nicene Creed and the Apostles Creed from time
 to time in our services. 
 
+For more check out our [sermon series](https://listen.trinitysc.nz/browse/series/64) on the Nicene Creed:
+
+[![Sermon Series](https://api.sermo.nz/trinitysc/api/v1/series/64/thumbnail)](https://listen.trinitysc.nz/browse/series/64)
+
+
 > I believe in God, the Father Almighty,  
 > creator of heaven and earth.  
 >   
@@ -52,9 +57,6 @@ to time in our services.
 > and the life everlasting. Amen.  
 {: .alert-info .rounded .p-3 .multi-column}
 
-For more check out our [sermon series](https://listen.trinitysc.nz/browse/series/64) on the Nicene Creed:
-
-[![Sermon Series](https://api.sermo.nz/trinitysc/api/v1/series/64/thumbnail)](https://listen.trinitysc.nz/browse/series/64)
 
 ## Church Service
 
@@ -82,7 +84,7 @@ wider family, being able to [support others](/about/missions)), and having other
 Formally, we are part of the Diocese of the [Church of Confessing Anglicans, Aotearoa NZ](https://confessinganglicans.nz/). Our bishop is Jay Behan, a gifted preacher, a winsome communicator. As a golfer he's [apparently in need](https://confessinganglicans.nz/leadership/) of extra grace. 
 The Diocese is governed by Synod, on which we are represented by James Baillinger, David Thompson, Kyla Horne, and Joy Penno. Our Canons, our rules of operation, can be found [here](https://confessinganglicans.nz/documents/canons/).
 
-For external input we also work with the [Gospel Training Trusty](https://gtt.nz/), 
+For external input we also work with the [Gospel Training Trust](https://gtt.nz/), 
 the [Multiply Group of Churches](https://multiply.co.nz/),
 and [Reach Australia](https://reachaustralia.com.au/).
 
