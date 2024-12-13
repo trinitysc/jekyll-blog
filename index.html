@@ -73,7 +73,7 @@ permalink: /
       <div class="row mb-4 scroll-animate fade-in-bottom scroll-once">
 
         {% assign today_date = 'today' | date: '%s' %}
-        {% assign events = site.events | where_exp: "event", "event.tags contains 'visitors'" | order: "date"  %}
+        {% assign events = site.events | where_exp: "event", "event.tags contains 'xmas'" | order: "date"  %}
         {% for event in events %}
         {% assign event_date = event.date | date: '%s' %}
         {% if event_date >= today_date %}
@@ -85,6 +85,19 @@ permalink: /
         {% endif %}
         {% endfor %}
 
+      </div>
+      <div class="row mb-4 p-0">
+        <div class="col-12 mb-2">
+          <h2 class="mt-3">Introducing God</h2>
+          <a href="/introducing-god">
+            <img src="/media/introducing-god.png" alt="Introducing God" style="width:100%;"/>
+          </a>
+          <p>
+            Our next Introducing God course begins on 12 Feb. This is a chance
+            for you to explore who God is and how you can know him. <a href="/introducing-god">Find out more</a>
+          </p>
+
+        </div>
       </div>
     </main>
   </div>
