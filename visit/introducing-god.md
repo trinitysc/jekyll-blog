@@ -26,4 +26,4 @@ and ensures everyone has an opportunity (but not an obligation) to contribute.
 Introducing God runs for 7 weeks but there’s no need to commit to the whole 
 thing, just come along for the first week and see how it goes!
 
-[Contact Us](/contact) to find out about the next course.
+The next course begins on Feb 12. [Contact Pam](mailto:pam@trinitysc.nz) to find out about the next course.

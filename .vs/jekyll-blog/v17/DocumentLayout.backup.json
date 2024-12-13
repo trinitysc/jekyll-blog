@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Github\\jekyll-blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\members.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:members.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_includes\\head.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\head.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_events\\carol-service.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_events\\carol-service.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\assets\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\assets\\css\\_variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\_variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\christmas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:christmas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,41 +86,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "carol-service.md",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_events\\carol-service.md",
-              "RelativeDocumentMoniker": "_events\\carol-service.md",
-              "ToolTip": "C:\\Github\\jekyll-blog\\_events\\carol-service.md",
-              "RelativeToolTip": "_events\\carol-service.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-22T11:52:07.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "members.html",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\members.html",
-              "RelativeDocumentMoniker": "members.html",
-              "ToolTip": "C:\\Github\\jekyll-blog\\members.html",
-              "RelativeToolTip": "members.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBQAAAAZAAAAAAAAAA==",
+              "Title": "head.html",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_includes\\head.html",
+              "RelativeDocumentMoniker": "_includes\\head.html",
+              "ToolTip": "C:\\Github\\jekyll-blog\\_includes\\head.html",
+              "RelativeToolTip": "_includes\\head.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-22T08:35:22.475Z",
+              "WhenOpened": "2024-12-06T23:55:37.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Github\\jekyll-blog\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAADUAAABdAAAAAAAAAA==",
+              "Title": "_variables.scss",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\assets\\css\\_variables.scss",
+              "RelativeDocumentMoniker": "assets\\css\\_variables.scss",
+              "ToolTip": "C:\\Github\\jekyll-blog\\assets\\css\\_variables.scss",
+              "RelativeToolTip": "assets\\css\\_variables.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-12-06T23:53:14.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\assets\\css\\site.css",
+              "RelativeDocumentMoniker": "assets\\css\\site.css",
+              "ToolTip": "C:\\Github\\jekyll-blog\\assets\\css\\site.css",
+              "RelativeToolTip": "assets\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-06T23:52:16.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "christmas.html",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\christmas.html",
+              "RelativeDocumentMoniker": "christmas.html",
+              "ToolTip": "C:\\Github\\jekyll-blog\\christmas.html",
+              "RelativeToolTip": "christmas.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-22T08:18:25.436Z",
+              "WhenOpened": "2024-12-04T11:07:37.71Z",
               "EditorCaption": ""
             }
           ]

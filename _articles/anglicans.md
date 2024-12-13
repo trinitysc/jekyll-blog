@@ -2,7 +2,7 @@
 layout: article
 title: We are Anglicans
 banner: /media/banners/communion.jpg
-tags: 
+tags: members
 order: 6
 ---
 
