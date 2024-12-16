@@ -77,14 +77,13 @@ permalink: /
         {% for event in events %}
         {% assign event_date = event.date | date: '%s' %}
         {% if event_date >= today_date %}
-        <div class="col-md-3 col-sm-6 mb-3">
+        <div class="col-md-4 col-sm-6 mb-3">
           <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
           <h4>{{ event.title }} </h4>
           {{ event.excerpt }}
         </div>
         {% endif %}
         {% endfor %}
-
       </div>
       <div class="row mb-4 p-0">
         <div class="col-12 mb-2">
