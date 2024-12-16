@@ -14,7 +14,14 @@ Tim Capill, the assistant minister at Latimer Church will be speaking.
 
 If you're not a happy camper, don't be put off. Despite the name, [Woodend Christian Camp](https://www.woodendcamp.co.nz/) has indoor twin and family rooms. There is a range of facilities to help [keep the kids busy](https://www.woodendcamp.co.nz/activities), and the site is a reasonable walk from the beach.
 
-More details to follow.
+Prices are as follows:
+ - Adult - $155 (2024: $150)
+ - In school - $75 (2024: $75)
+ - 0-4 yrs - $40 (2024: $40)
+ - Day Visitor - $40 ($20 per child) (same as 2024)
+ - Household Limit - $400 (2024: $390)
+
+As always, don't let cost stop you from coming. If finances are a concern, we can work something out.
 
 Sign up below:
 

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Github\\jekyll-blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_events\\introducing-god.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_events\\introducing-god.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\members.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:members.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\visit\\introducing-god.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:visit\\introducing-god.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_events\\cwa.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_events\\cwa.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\visit\\im-new.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:visit\\im-new.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\visit\\family.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:visit\\family.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_layouts\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\visit\\traditional.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:visit\\traditional.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\visit\\evening.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:visit\\evening.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,34 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 14,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "introducing-god.md",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_events\\introducing-god.md",
-              "RelativeDocumentMoniker": "_events\\introducing-god.md",
-              "ToolTip": "C:\\Github\\jekyll-blog\\_events\\introducing-god.md",
-              "RelativeToolTip": "_events\\introducing-god.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-12-13T08:30:14.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "im-new.html",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\visit\\im-new.html",
-              "RelativeDocumentMoniker": "visit\\im-new.html",
-              "ToolTip": "C:\\Github\\jekyll-blog\\visit\\im-new.html",
-              "RelativeToolTip": "visit\\im-new.html",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-11T04:29:18.967Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -112,28 +90,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "base.html",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_layouts\\base.html",
-              "RelativeDocumentMoniker": "_layouts\\base.html",
-              "ToolTip": "C:\\Github\\jekyll-blog\\_layouts\\base.html",
-              "RelativeToolTip": "_layouts\\base.html",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "members.html",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\members.html",
+              "RelativeDocumentMoniker": "members.html",
+              "ToolTip": "C:\\Github\\jekyll-blog\\members.html",
+              "RelativeToolTip": "members.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-11T04:28:57.034Z",
+              "WhenOpened": "2024-12-14T08:02:50.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "introducing-god.md",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\visit\\introducing-god.md",
-              "RelativeDocumentMoniker": "visit\\introducing-god.md",
-              "ToolTip": "C:\\Github\\jekyll-blog\\visit\\introducing-god.md",
-              "RelativeToolTip": "visit\\introducing-god.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "cwa.md",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_events\\cwa.md",
+              "RelativeDocumentMoniker": "_events\\cwa.md",
+              "ToolTip": "C:\\Github\\jekyll-blog\\_events\\cwa.md",
+              "RelativeToolTip": "_events\\cwa.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-12-11T04:27:22.875Z",
+              "WhenOpened": "2024-12-14T07:55:17.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "family.html",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\visit\\family.html",
+              "RelativeDocumentMoniker": "visit\\family.html",
+              "ToolTip": "C:\\Github\\jekyll-blog\\visit\\family.html",
+              "RelativeToolTip": "visit\\family.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-14T02:20:37.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "traditional.html",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\visit\\traditional.html",
+              "RelativeDocumentMoniker": "visit\\traditional.html",
+              "ToolTip": "C:\\Github\\jekyll-blog\\visit\\traditional.html",
+              "RelativeToolTip": "visit\\traditional.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-14T02:20:29.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "evening.html",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\visit\\evening.html",
+              "RelativeDocumentMoniker": "visit\\evening.html",
+              "ToolTip": "C:\\Github\\jekyll-blog\\visit\\evening.html",
+              "RelativeToolTip": "visit\\evening.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-14T02:19:53.092Z",
               "EditorCaption": ""
             }
           ]
