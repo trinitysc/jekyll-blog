@@ -4,38 +4,27 @@ title: Welcome to Trinity
 permalink: /
 ---
 
-<div class="p-0 m-0" style="position:sticky; top:0;">
-
-  <!--<h1 class="in-banner">{{ page.title | escape }}</h1>-->
-  <a href="/christmas">
-    <picture>
-      <source srcset="/media/banners/xmas.png" media="(min-width: 500px)" />
-      <img src="/media/events/xmas.png" alt="Christmas" />
-    </picture>
-  </a>
+<div class="banner vignette vignette-small p-0 m-0" style="position:sticky; top:0;">
+  <h1 class="in-banner">{{ page.title | escape }}</h1>
+  <img style="width:100%" alt="{{ page.title }}" src="/media/banners/people.png" />
 </div>
 <div style="display:block; padding:0; margin:0; background-color: white; position:relative;">
   <div class="container pt-4">
     <main>
-      <div class="row">
-        <div class="col">
-          <h1>Welcome to Trinity, <a href="/christmas" class="btn btn-lg btn-danger">Join us</a> this <a href="/christmas"><span style="background-color: #FAE6C1; color: #C1292E; font-weight: bold; padding: 1px; ">Christmas</span></a>.</h1>
-        </div>
-      </div>
-      <div class="row">
+      <div class="row mtb-4">
         <div class="col-12 mb-1">
           <div class="jumbotron locators row mb-4 p-4">
-            <div class="col-md-4 p-0 mt-2 mb-2">
+            <div class="col-sm-4 p-0 m-0">
               <h2>Welcome</h2>
               <p>We meet every Sunday at <a href="/visit/traditional">9 am</a> and <a href="/visit/family">10:45 am</a> at <a href="/visit/location">200 Colombo St, Sydenham</a>, with an evening service <a href="/visit/evening">coming soon</a>.<p>
               <p>We would love to give you a warm welcome.</p>
               <a class="btn btn-primary" href="/visit/sundays">I'm New</a>
               <a class="btn btn-info" href="https://www.google.com/maps/dir//200+Colombo+Street,+Sydenham,+Christchurch+8023/" target="_blank">Directions</a>
             </div>
-            <div class="col-md-4 mt-2 mb-2">
+            <div class="col-sm-4">
               <a href="/visit/location"><img src="/media/maps/zoom-2.png" class="round"></a>
             </div>
-            <div class="col-md-4 mt-2 mb-2">
+            <div class="col-sm-4">
               <h2>Our Mission</h2>
               <p>We are an Anglican evangelical Church made up of Christians of all ages and from all walks of life.  Our desire is to hear Jesus speak, see Jesus work, and share Jesus’ love.</p>
               <a href="/about/who-we-are" class="btn btn-primary">Find out more</a>
@@ -59,25 +48,17 @@ permalink: /
           <iframe style="border-radius:10px;width:100%;height:352px;border:0;" src="https://open.spotify.com/embed/show/6kObfpMFJbH71CT1MiKo48" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
       </div>
-      <div class="row mb-4 p-0">
-        <div class="col-12 mb-2">
-          <h2 class="mt-3">Upcoming Christmas Events</h2>
-          <a href="/christmas">
-            <picture>
-              <source srcset="/media/events/xmas-timetable.png" media="(min-width: 576px)" />
-              <img src="/media/events/xmas-mobile.png" alt="Christmas" />
-            </picture>
-          </a>
-        </div>
-      </div>
       <div class="row mb-4 scroll-animate fade-in-bottom scroll-once">
+        <div class="col-12">
+          <h2>Upcoming Visitor Events</h2>
+        </div>
 
         {% assign today_date = 'today' | date: '%s' %}
-        {% assign events = site.events | where_exp: "event", "event.tags contains 'xmas'" | order: "date"  %}
+        {% assign events = site.events | where_exp: "event", "event.tags contains 'visitors'" | order: "date"  %}
         {% for event in events %}
         {% assign event_date = event.date | date: '%s' %}
         {% if event_date >= today_date %}
-        <div class="col-md-4 col-sm-6 mb-3">
+        <div class="col-sm-4 mb-3">
           <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
           <h4>{{ event.title }} </h4>
           {{ event.excerpt }}
@@ -89,7 +70,7 @@ permalink: /
         <div class="col-12 mb-2">
           <h2 class="mt-3">Introducing God</h2>
           <a href="/introducing-god">
-            <img src="/media/introducing-god.png" alt="Introducing God" style="width:100%;"/>
+            <img src="/media/introducing-god.png" alt="Introducing God" style="width:100%;" />
           </a>
           <p>
             Our next Introducing God course begins on 12 Feb. This is a chance
