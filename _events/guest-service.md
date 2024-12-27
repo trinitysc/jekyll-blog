@@ -2,13 +2,8 @@
 layout: event
 title: Take a Walk in My Worldview
 tags: visitors
-date: 2024-11-03
-image: media/events/splendour-and-suffering.png
+date: 2024-04-06
 ---
 
-
-Splendour amid Suffering – how can they coexist?
-
-This service is designed to be accessible to new Christians
-and those investigating Christiantiy.
+Our next Guest Services take place on 6 April. These services are designed to be accessible to new Christians and those investigating Christiantiy. Details to follow.
 <!--excerpt end-->
