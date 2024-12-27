@@ -16,7 +16,7 @@ permalink: /
           <div class="jumbotron locators row mb-4 p-4">
             <div class="col-sm-4 p-0 m-0">
               <h2>Welcome</h2>
-              <p>We meet every Sunday at <a href="/visit/traditional">9 am</a> and <a href="/visit/family">10:45 am</a> at <a href="/visit/location">200 Colombo St, Sydenham</a>, with an evening service <a href="/visit/evening">coming soon</a>.<p>
+              <p>We meet every Sunday at <a href="/visit/traditional">9 am</a> and <a href="/visit/family">10:45 am</a> at <a href="/visit/location">200 Colombo St, Sydenham</a>, with a <a href="/visit/evening">6pm evening service</a> starting in February.<p>
               <p>We would love to give you a warm welcome.</p>
               <a class="btn btn-primary" href="/visit/sundays">I'm New</a>
               <a class="btn btn-info" href="https://www.google.com/maps/dir//200+Colombo+Street,+Sydenham,+Christchurch+8023/" target="_blank">Directions</a>
@@ -38,47 +38,48 @@ permalink: /
           <h2>Last week's Sermon</h2>
           <p>
             Each week we look at a passage of the Bible to think about what God is saying and how it applies to us today.
-            We are currently preaching through the book of Exodus.
-            Listen to our latest sermon on Spotify, or check out our full <a href="/listen">Sermon Archive</a>. We recently published our 1,000th sermon!
+            Our summer series is People Jesus Met.
+            Listen to our latest sermon on Spotify, or check out our full <a href="/listen">Sermon Archive</a>. 
           </p>
         </div>
       </div>
       <div class="row mb-4 p-0">
-        <div class="col-12 m-0 p-1">
-          <iframe style="border-radius:10px;width:100%;height:352px;border:0;" src="https://open.spotify.com/embed/show/6kObfpMFJbH71CT1MiKo48" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="col-md-12 m-0 p-1">
+          <iframe style="border-radius:10px;width:100%;height:400px;border:0;" src="https://open.spotify.com/embed/show/6kObfpMFJbH71CT1MiKo48" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
       </div>
-      <div class="row mb-4 p-0">
-        <div class="col-12 mb-2">
-          <h2 class="mt-3">Introducing God</h2>
-          <a href="/introducing-god">
-            <img src="/media/introducing-god.png" alt="Introducing God" style="width:100%;" />
-          </a>
-          <p>
-            Our next Introducing God course begins on 12 Feb. This is a chance
-            for you to explore who God is and how you can know him. <a href="/introducing-god">Find out more</a>
-          </p>
 
-        </div>
-      </div>
-      <div class="row mb-4 scroll-animate fade-in-bottom scroll-once">
-        <div class="col-12">
-          <h2>Upcoming Visitor Events</h2>
-        </div>
+        <div class="row mb-4 p-0">
+          <div class="col-12 mb-2">
+            <h2 class="mt-3">Introducing God</h2>
+            <a href="/introducing-god">
+              <img src="/media/introducing-god.png" alt="Introducing God" style="width:100%;" />
+            </a>
+            <p>
+              Our next Introducing God course begins on 12 Feb. This is a chance
+              for you to explore who God is and how you can know him. <a href="/introducing-god">Find out more</a>
+            </p>
 
-        {% assign today_date = 'today' | date: '%s' %}
-        {% assign events = site.events | where_exp: "event", "event.tags contains 'visitors'" | order: "date"  %}
-        {% for event in events %}
-        {% assign event_date = event.date | date: '%s' %}
-        {% if event_date >= today_date %}
-        <div class="col-sm-4 mb-3">
-          <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
-          <h4>{{ event.title }} </h4>
-          {{ event.excerpt }}
+          </div>
         </div>
-        {% endif %}
-        {% endfor %}
-      </div>
-    </main>
+        <div class="row mb-4 scroll-animate fade-in-bottom scroll-once">
+          <div class="col-12">
+            <h2>Upcoming Visitor Events</h2>
+          </div>
+
+          {% assign today_date = 'today' | date: '%s' %}
+          {% assign events = site.events | where_exp: "event", "event.tags contains 'visitors'" | order: "date"  %}
+          {% for event in events %}
+          {% assign event_date = event.date | date: '%s' %}
+          {% if event_date >= today_date %}
+          <div class="col-sm-4 mb-3">
+            <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
+            <h4>{{ event.title }} </h4>
+            {{ event.excerpt }}
+          </div>
+          {% endif %}
+          {% endfor %}
+        </div>
+</main>
   </div>
 </div>
