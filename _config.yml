@@ -29,6 +29,12 @@ collections:
 
 excerpt_separator: <!--excerpt end-->
 
+defaults:
+ - scope:
+      path: ""
+   values:
+      layout: "page"
+
 # Allow pages with a data attribute to be displayed even if the date is in the future
 # (Default is to return a 404)
 future:
