@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
     "\\assets\\css",
     "\\assets\\scripts",
+    "\\media\\events",
+    "\\media\\missions",
+    "\\media\\series",
     "\\ministries"
   ],
-  "SelectedNode": "\\christmas.html",
+  "SelectedNode": "\\robots.txt",
   "PreviewInSolutionExplorer": false
 }

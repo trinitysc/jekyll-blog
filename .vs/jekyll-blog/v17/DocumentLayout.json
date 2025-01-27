@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Github\\jekyll-blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_events\\prayer-meeting-day.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_events\\prayer-meeting-day.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\visit\\evening.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:visit\\evening.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_includes\\head.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\head.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\listen.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:listen.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_events\\welcome-lunch.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_events\\welcome-lunch.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_layouts\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,6 +69,43 @@
               "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "evening.html",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\visit\\evening.html",
+              "RelativeDocumentMoniker": "visit\\evening.html",
+              "ToolTip": "C:\\Github\\jekyll-blog\\visit\\evening.html",
+              "RelativeToolTip": "visit\\evening.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-23T10:35:16.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "head.html",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_includes\\head.html",
+              "RelativeDocumentMoniker": "_includes\\head.html",
+              "ToolTip": "C:\\Github\\jekyll-blog\\_includes\\head.html",
+              "RelativeToolTip": "_includes\\head.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-23T09:16:15.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "base.html",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_layouts\\base.html",
+              "RelativeDocumentMoniker": "_layouts\\base.html",
+              "ToolTip": "C:\\Github\\jekyll-blog\\_layouts\\base.html",
+              "RelativeToolTip": "_layouts\\base.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-23T09:15:45.082Z"
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
@@ -99,84 +124,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_config.yml",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_config.yml",
-              "RelativeDocumentMoniker": "_config.yml",
-              "ToolTip": "C:\\Github\\jekyll-blog\\_config.yml",
-              "RelativeToolTip": "_config.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-01-23T08:37:03.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "prayer-meeting-day.md",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_events\\prayer-meeting-day.md",
-              "RelativeDocumentMoniker": "_events\\prayer-meeting-day.md",
-              "ToolTip": "C:\\Github\\jekyll-blog\\_events\\prayer-meeting-day.md",
-              "RelativeToolTip": "_events\\prayer-meeting-day.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-01-23T08:36:55.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "evening.html",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\visit\\evening.html",
-              "RelativeDocumentMoniker": "visit\\evening.html",
-              "ToolTip": "C:\\Github\\jekyll-blog\\visit\\evening.html",
-              "RelativeToolTip": "visit\\evening.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-23T08:36:15.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Github\\jekyll-blog\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-23T08:34:56.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "listen.html",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\listen.html",
-              "RelativeDocumentMoniker": "listen.html",
-              "ToolTip": "C:\\Github\\jekyll-blog\\listen.html",
-              "RelativeToolTip": "listen.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-23T08:26:48.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "welcome-lunch.md",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_events\\welcome-lunch.md",
-              "RelativeDocumentMoniker": "_events\\welcome-lunch.md",
-              "ToolTip": "C:\\Github\\jekyll-blog\\_events\\welcome-lunch.md",
-              "RelativeToolTip": "_events\\welcome-lunch.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-01-23T08:19:02.702Z",
-              "EditorCaption": ""
             }
           ]
         }
