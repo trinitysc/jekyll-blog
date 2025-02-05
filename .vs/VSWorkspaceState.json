@@ -1,13 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\css",
-    "\\assets\\scripts",
+    "\\media\\banners",
     "\\media\\events",
     "\\media\\missions",
     "\\media\\series",
-    "\\ministries"
+    "\\ministries",
+    "\\_events"
   ],
-  "SelectedNode": "\\robots.txt",
+  "SelectedNode": "\\_events\\cwa.md",
   "PreviewInSolutionExplorer": false
 }

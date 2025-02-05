@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Github\\jekyll-blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_articles\\apprentices.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_articles\\apprentices.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,14 +83,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "apprentices.md",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_articles\\apprentices.md",
-              "RelativeDocumentMoniker": "_articles\\apprentices.md",
-              "ToolTip": "C:\\Github\\jekyll-blog\\_articles\\apprentices.md",
-              "RelativeToolTip": "_articles\\apprentices.md",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-02-05T06:55:02.923Z",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Github\\jekyll-blog\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-05T09:03:33.37Z",
               "EditorCaption": ""
             }
           ]
