@@ -1,13 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\media\\banners",
-    "\\media\\events",
-    "\\media\\missions",
-    "\\media\\series",
     "\\ministries",
-    "\\_events"
+    "\\_articles"
   ],
-  "SelectedNode": "\\_events\\cwa.md",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }

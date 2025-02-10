@@ -4,7 +4,14 @@ layout: base
 
 {% if page.banner %}
 <div class="banner vignette vignette-small p-0 m-0">
+  {% if page.mobile %}
+  <picture>
+    <source srcset="{{ page.banner | relatve_url }}" media="(min-width: 576px)" />
+    <img style="width:100%" alt="{{ page.title }}" src="{{ page.mobile | relative_url }}" />
+  </picture>
+  {% else %}
   <img style="width:100%" alt="{{ page.title }}" src="{{ page.banner | relative_url }}" />
+  {% endif %}
 </div>
 {% endif %}
 
