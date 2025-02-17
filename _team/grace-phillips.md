@@ -1,6 +1,6 @@
 ---
 name: Grace Phillips
-role: Music Director
+role: Ministry Apprentice
 image: /media/team/grace-phillips.jpg
 order: 12
 banner: false

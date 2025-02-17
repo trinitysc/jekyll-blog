@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\media",
     "\\media\\banners",
     "\\ministries",
     "\\_articles",
+    "\\_events",
     "\\_series"
   ],
-  "SelectedNode": "\\_series\\titus.md",
+  "SelectedNode": "\\_events\\mens-breakfast.md",
   "PreviewInSolutionExplorer": false
 }
