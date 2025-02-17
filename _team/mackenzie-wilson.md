@@ -1,4 +1,4 @@
-s---
+---
 name: Mackenzie Wilson 
 role: Church Administrator
 image: /media/team/mackenzie-wilson.jpg
