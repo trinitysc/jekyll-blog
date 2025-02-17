@@ -2,7 +2,7 @@
 layout: event
 title: Introducing God
 tags: visitors
-date: 2025-02-12
+date: 2025-02-19
 ---
 
 Our next Introducing God course begins on 12 Feb. This is a chance 
