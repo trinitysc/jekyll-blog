@@ -1,8 +1,8 @@
----
+s---
 name: Mackenzie Wilson 
 role: Church Administrator
 image: /media/team/mackenzie-wilson.jpg
 order: 11
 banner: false
 ---
-Mackenzie recently completed a maths and computer science degree at Canterbury University. She loves enabling God’s people to meet and praise Him, especially when it gives her an excuse to use her label maker.
+Mackenzie loves opening the Bible with people, and seeing how God changes lives through his Spirit, and is excited to see more of that through her apprenticeship. In her down time she enjoys cross-stitching, walking Halswell Quarry, cooking for people and telling her (very patient) husband, Izaac, about exciting maths concepts.
