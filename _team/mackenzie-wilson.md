@@ -1,6 +1,6 @@
 ---
 name: Mackenzie Wilson 
-role: Church Administrator
+role: Ministry Apprentice
 image: /media/team/mackenzie-wilson.jpg
 order: 11
 banner: false
