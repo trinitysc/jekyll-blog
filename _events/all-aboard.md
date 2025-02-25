@@ -2,10 +2,10 @@
 layout: event
 title: All Aboard Course
 tags: members
-date: 2025-02-24
+date: 2025-03-03
 ---
 
-Our "All Aboard" course will run for three Monday evenings (7.30-9.15) over dessert beginning on Feb 17.
+Our final "All Aboard" group is on Monday 3 March (7.30-9.15). 
 
 <!--excerpt end-->
 
