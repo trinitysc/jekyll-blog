@@ -2,7 +2,7 @@
 layout: event
 title: Introducing God
 tags: visitors
-date: 2025-02-26
+date: 2025-03-05
 ---
   
 Our Introducing God course is a chance 
