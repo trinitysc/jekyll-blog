@@ -2,10 +2,10 @@
 layout: event
 title: All Aboard Course
 tags: members
-date: 2025-03-03
+date: 2025-04-28
 ---
 
-Our final "All Aboard" group is on Monday 3 March (7.30-9.15). 
+Our next "All Aboard" course starts on Monday 28 April (7.30-9.15). 
 
 <!--excerpt end-->
 
