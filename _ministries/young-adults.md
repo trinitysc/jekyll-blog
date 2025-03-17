@@ -5,7 +5,7 @@ banner:
 order: 3
 ---
 
-Young Adults is a thriving fellowship group for younger folk seeking a deeper understanding of the Bible. Through Young Adults, the church seeks to raise up a new generation of bible believing Christians. We meet once a week on Sundays at church on 200 Colombo Street. There is a BYO dinner starting from 6:30pm, followed by a Bible study at 7:15pm.
+Young Adults is a thriving fellowship group for younger folk seeking a deeper understanding of the Bible. Through Young Adults, the church seeks to raise up a new generation of bible believing Christians. We meet once a week on Thursdays at church on 200 Colombo Street. Hot drinks will be available from 7:15pm, with the Bible study beginning at 7:30pm.
 
 <!--excerpt end-->
 
