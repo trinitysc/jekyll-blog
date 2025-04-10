@@ -166,21 +166,33 @@ First, we can (and should) pray for the Spirit to enlighten us. This is a prayer
 Having prayed for the Spirit's work, we then take our our time in the passage. Our aim is to be able to pray meaningfully _from_ the passage; to respond to what God has said to us. At its simplest, prayer involves expressing adoration and [gratitude](https://www.desiringgod.org/articles/start-asking-god-for-more), asking for forgiveness, and asking for God's blessing. Our reading therefore involves looking for things that make us love Jesus more; that convict us of our sin; or make us seek something new in God. So:
 
 <div class="alert-info rounded p-3 m-3">
-<p><b>Slow down. Ask probing questions.</b></p>
+<p><b>Understand</b>. What is the passage telling me?</p>
+<ul>
+<li>What is the main point the author is making? How do the words he uses support this point?</li>
+<li>How does this passage flow from the one before?</li>
+<li>How does this passage fit into the book?</li>>
+</ul>
+<p>Check your understanding. Go back to the passage with your conclusions and check that the passage reads the way you thought it did. For example, do your conclusions rely on anything the writer hasn't actually said in this passage?</p>
+<p><b>Slow down. Ask probing questions.</b> Fundamentally, what does this passage tell us about God? What does this passage tell us about man?</p>
 <ul>
 <li>What does this tell me about the person of Jesus; of the purposes and promises of God? </li>
 <li>What does this tell me of salvation? </li>
 <li>What does this tell me about loving and serving God, and my neighbour? </li>
 <li>What encouragements or warnings does this give me?  </li>
 </ul>
-<p><b>Personalise.</b></p>
+<p><b>Personalise.</b>How does this passage inform my relationship with God?</p>
 <ul>
 <li>How does this passage help me love Jesus more?</li>
-<li>What does this passage imply for my prayers?</li>
+<li>What does this passage show me about the character of God that can I praise him for?</li>
+<li>What does this passage show me about myself, as I am now, for which I can ask forgiveness from God?</li>
+<li>What does this passage show me is missing in myself, as I am now, for which I petition God?</li>
 </ul>
 </div>
 
 
+## Practicalities
+
+### Reading the Bible
 Practically speaking, it can help to have a Reading Plan. Robert Murray M’Cheyne's [reading plan](https://www.mcheyne.info/calendar.pdf) has been a blessing to devout Christians since the mid 1800's. Or there is a [Bible Reading plan for Shirkers & Slackers](https://ransomfellowship.org/wp-content/uploads/2017/03/Bible-Reading-Program-for-Shirkers-and-Slackers.pdf). Or your Bible may have already come with a reading plan. For a bit more structure when reading with someone else, [The Word one-to-one](https://www.theword121.com/)provides guided reads through John's Gospel and the book of Acts.
 
 For help seeing the Big Picture, check out _[God's Big Pucture](https://www.godsbigpicture.co.uk/)_ by Vaughan Roberts, or Graeme Goldsworthy's _[According to Plan](https://www.ivpress.com/according-to-plan)_. For a lighter walk through the Bible, being released weekly through 2025, checkout our [40 Idioms](https://40-idioms.com) website.
@@ -188,6 +200,21 @@ For help seeing the Big Picture, check out _[God's Big Pucture](https://www.gods
 When it comes to prayer, some find it helpful to look at prayers written by others, like [Charles Spurgeon](https://www.spurgeongems.org/spurgeon-prayers/),
 or even [those of Jesus](https://www.crossway.org/books/the-prayers-of-jesus-tpb/).
 
+### Further Reading on Devotion
 
+This article was mostly based on the following three books:
+ - _Knowing God_, by JI Packer, especially Parts I and III. This book is a modern classic, surprisingly accessible, and well worth reading in its own right.
+ - _True Deevotion_, by Allan Chapple. This book is newer and less well known, but presents an extremely clear argument for the centrality of the Gospel in our devotional lives, and therefore in our relationship with God.
+ - _Prayer_, by Tim Keller, especially Chapter 10, "Prayer as Conversation: Meditating on his Word".
 
-
+<div class="row mt-4">
+  <div class="col-md-4 mb-2">
+    <img src="/media/books/knowing-god-ji-packer.jpg" alt="Knowing God" style="width:100%;" />
+  </div>
+  <div class="col-md-4 mb-2">
+    <img src="/media/books/true-devotion-allan-chapple.jpg" alt="True Devotion" style="width:100%;"/>
+  </div>
+  <div class="col-md-4 mb-2">
+    <img src="/media/books/prayer-tim-keller.jpg" alt="Prayer" style="width:100%;" />
+  </div>
+</div>
