@@ -8,13 +8,13 @@ permalink: /stepping-up/devotion
 What does it mean to have a relationship with God? How do we grow as Christians? Why are Quiet Times so hard to persist with? Why does reading the Bible so often feel dry? What is, or should be, the point of studying the Bible? In a sense, the answer to all these questions lies in the concept of Devotion.
 <!--excerpt end-->
 
-"Devotion" has many interpretations, but in a general sense we think of it as the showing of love and loyalty to someone. Devotion to God therefore displays our  love and loyalty to him. To think correctly about what that looks like, we need to start with understanding what exactly is our relationship to him. At heart, this means beginning all it does for all matters Christian) with the Gospel.
+"Devotion" has many interpretations, but in a general sense we think of it as the showing of love and loyalty to someone. Devotion to God therefore displays our love and loyalty to him. To think correctly about what that looks like, we need to start with understanding what exactly is our relationship to him. Which means beginning, as it does for all matters Christian, with the Gospel.
 
 -----
 
 ## The Heart of the Gospel
 
-We can summarise the message of the New Testament as [_adoption through propitiation_](https://www.thegospelcoalition.org/blogs/justin-taylor/how-would-you-summarize-the-new-testament-in-three-words/). Simply put, **<mark>because the Son of God willingly became man and gave his life for us on the Cross, those who believe in him are no longer enemies of God, but are God's children.</mark>** 
+We can summarise the message of the New Testament as [_adoption through propitiation_](https://www.thegospelcoalition.org/blogs/justin-taylor/how-would-you-summarize-the-new-testament-in-three-words/). Simply put, **<mark>because the Son of God willingly became man and gave his life for us on the Cross, those who believe in him are no longer enemies of God, but are God's children</mark>**:
 > This is love: not that we loved God, but that he loved us and sent his Son as an <mark>atoning sacrifice</mark> for our sins ... See what great love the Father has lavished on us, that we should be called <mark>children of God</mark>! And that is what we are! (1 John 4:10, 1 John 3:1)
 
 ### Christ is our Saviour
@@ -22,10 +22,10 @@ We can summarise the message of the New Testament as [_adoption through propitia
 Many Christians will have heard of how Martin Luther, on reading [Romans 1](https://www.biblegateway.com/passage/?search=romans%201%3A16-17&version=NIV), [came to the realisation](https://lutheranreformation.org/theology/luthers-breakthrough-romans/) that we are saved, not by works, but by faith:
 > As a monk I led an irreproachable life. Nevertheless I felt that I was a sinner before God. My conscience was restless, and I could not depend on God being propitiated by my satisfactions. Not only did I not love, but I actually hated the righteous God who punishes sinners. Thus a furious battle raged within my perplexed conscience, but meanwhile I was knocking at the door of this particular Pauline passage, earnestly seeking to know the mind of the great apostle. <mark>Day and night I tried to meditate upon the significance of these words: ‘The righteousness of God is revealed in it, as it is written: The righteous shall live by faith'</mark>.
 
-Luther's realisation-his recovery of the message of the gospel--led to the Protestand Reformation, and the church we now attend. As Christians, we know we have been saved by Grace alone, through faith in the death of Jesus Christ on the cross. **The gospel is thus central to our faith.** 
+Luther's realisation-his recovery of the message of the gospel--led to the Protestant Reformation, and the church we now attend. As Christians, we know we have been saved by Grace alone, through faith in the death of Jesus Christ on the cross. **The gospel is thus central to our faith**: 
 >  Now, brothers and sisters, I want to remind you of the gospel I preached to you, which you received and on which you have taken your stand. <mark>By this gospel you are saved</mark>, if you hold firmly to the word I preached to you ...<mark>that Christ died for our sins</mark> according to the Scriptures, that he was buried, that he was raised on the third day according to the Scripture (1 Corinthians 15:1-4)  
 
-Jesus' death is thus central to the gospel, to our faith. Indeed, **Jesus himself is central to the Gospel**, to the extent that in a sense Jesus _is_ the gospel:
+Not only is Jesus' death central to the gospel and to our faith, **Jesus himself is central to the Gospel**; to the extent that Jesus in a sense _is_ the gospel:
 >  So then, <mark>just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him</mark>, strengthened in the faith as you were taught, and overflowing with thankfulness. (2 Corinthians 2:6)  
 >  For <mark>what we preach is not ourselves, but Jesus Christ as Lord</mark>. (2 Corinthians 4:5)
 
@@ -34,29 +34,29 @@ Jesus' death is thus central to the gospel, to our faith. Indeed, **Jesus himsel
 While it's hard to argue that we can ever over-emphasise the cross, sometimes we forget just how momentous the incarnation of Jesus itself was. **That Jesus of Nazareth was God made man is a claim that should never cease to amaze us**:
 > In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made. ... <mark>The Word became flesh and made his dwelling among us. We have seen his glory</mark>, the glory of the one and only Son, who came from the Father, full of grace and truth. (John 1:1-14)
 
-Somehow the Son of God became a human. And as a human **Jesus voluntarily submitted himself the will of his Father**:
+Somehow the Son of God became a human. And as a human, **Jesus voluntarily submitted himself the will of his Father**:
 > Very truly I tell you, the Son can do nothing by himself; he can do only what he sees his Father doing, because <mark>whatever the Father does the Son also does</mark> ... By myself I can do nothing; I judge only as I hear, and my judgment is just, for I seek not to please myself but him who sent me." (John 5:19-30)
 
 **In his submission, Jesus suffered** as he was tempted, resisting to become the perfect man.
 > Because <mark>he himself suffered</mark> when he was tempted, he is able to help those who are being tempted. (Hebrews 2:18).  
-> For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are—yet he did not sin. Let us then approach God’s throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need. (Hebrews 4:15-16)
+> For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are—yet he did not sin. <mark>Let us then approach God’s throne of grace with confidence</mark>, so that we may receive mercy and find grace to help us in our time of need. (Hebrews 4:15-16)
 
 
 ### We are God's Children
 
-What Luther also realised, but is often lost in our thinking, is what we are saved _for_. We understand well that we are saved from the sinful state that all humans share. We tend to know that in some way we are saved in order to go to heaven, though our vision of what that means can be fuzzy.  What we tend to overlook is that **we are saved for adoption**.
+We know then that we are saved from our sins by grace. What Luther also realised, but is often lost in our thinking, is what we are saved _for_. We tend to know that in some way we are saved in order to go to heaven, though our vision of what that means can be fuzzy.  What we tend to overlook is that **we are saved for adoption**.
 
-What the gospel tells us is that, thanks to Jesus, not only have we been saved from sin, but that God sees us as family. **To be a Christian is to have God as our Father**:
+What the gospel tells us is that, thanks to Jesus, not only have we been saved from sin, but that God sees us as family. To be a Christian is to have a fundamentally new relationship with God. **To be a Christian is to have God as our Father**:
 > Yet to all who did receive him, to those who believed in his name, he gave the right to become <mark>children of God</mark>--children born not of natural descent, nor of human decision or a husband’s will, but <mark>born of God</mark>. (John 1:12-13)  
 > Because you are his sons, God sent the Spirit of his Son into our hearts, the Spirit who calls out, "Abba,Father." So <mark>you are no longer a slave, but God’s child</mark>; and since you are his child, God has made you also an heir.  (Galatians 4:6-7)
 
-And **now Jesus sits at the right hand of God, interceding on our behalf**:
-> Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God. ... you died, and your life is now hidden with Christ in God. (Col 3:1-3)  
->  Now there have been many ... priests, since death prevented them from continuing in office; but <mark>because Jesus lives forever, he has a permanent priesthood</mark>. Therefore <mark>he is able to save completely those who come to God through him, because he always lives to intercede for them</mark>. (Hebrews 7:23-25)
-
-Not only that, but we have Jesus--the Son of God who died for us, and who intercedes for us--as our brother:
+Not only that, but we have Jesus--the Son of God who died for us--as our brother:
 > "Whoever does God’s will is my brother and sister and mother." (Mark 3:35)
 > "Go ... to <mark>my brothers</mark> and tell them, ‘I am ascending to <mark>my Father and your Father</mark>, to my God and your God.’” (John 20:17)
+
+And this **Jesus now sits at the right hand of the Father, speaking on our behalf**:
+> Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God. ... you died, and your life is now hidden with Christ in God. (Col 3:1-3)  
+>  Now there have been many ... priests, since death prevented them from continuing in office; but <mark>because Jesus lives forever, he has a permanent priesthood</mark>. Therefore <mark>he is able to save completely those who come to God through him, because he always lives to intercede for them</mark>. (Hebrews 7:23-25)
 
 Moreover, Jesus, praying to the Father, gave the remarkable promise as Christians, **we are loved by the Father in the same way Jesus is loved by the Father**:
 >  “I have given them your word ... Sanctify them by the truth; your word is truth. ... I pray also for those who will believe in me through their message, that all of them may be one, Father, just as you are in me and I am in you. ... <mark>Then the world will know that you sent me **and have loved them even as you have loved me**.</mark>" (John 17:13-23)
@@ -73,7 +73,7 @@ By contrast, **we are able to talk to God as "our Father"**:
 
 ### We have an Eternal Hope
 
-**As God's children, we are also heirs, of an eternal hope - of being with Jesus and sharing in his glory**:
+And ultimately, **as God's children we are also heirs of an eternal hope: that of being with Jesus and sharing in his glory**:
 
 > Now if we are children, then <mark>we are heirs—-heirs of God and co-heirs with Christ</mark>, if indeed we share in his sufferings in order that we may also share in his glory. (Romans 8:17)  
 > For the wages of sin is death, but <mark>the gift of God is eternal life in Christ Jesus</mark> our Lord. (Romans 6:23)  
@@ -84,7 +84,7 @@ By contrast, **we are able to talk to God as "our Father"**:
 
 ## Enjoying the Father
 
-While we might _be_ God's children, destined for eternal glory, in the mundane reality of daily life we often don't _feel_ like God's children. How then do we enjoy the intimacy implied by this familial description? 
+However, while we might _be_ God's children, destined for eternal glory, in the mundane reality of daily life we often don't _feel_ like God's children. How then do we enjoy the intimacy implied by this familial description? 
 
 ### Hearing God
 
@@ -93,10 +93,10 @@ For many, the answer lies in seeking some kind of "experience of the Holy Spirit
 
 Instead, **the Holy Spirit's role is to direct us to Jesus, and to his words**. When Jesus departed, he promised his Spirit to his disicples, from whom we have the New Testament:
 > "But the Helper, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance all that I have said to you." (John 15:26, ESV)  
-> “I have much more to say to you, more than you can now bear. but when he, the Spirit of truth, comes, he will guide you into all the truth. <mark>He will not speak on his own; he will speak only what he hears<mark> ... He will glorify me because <mark>it is from me that he will receive what he will make known to you</mark>. All that belongs to the Father is mine. That is why I said the Spirit will receive from me what he will make known to you.” (John 16:12-16)  
+> “I have much more to say to you, more than you can now bear. but when he, the Spirit of truth, comes, he will guide you into all the truth. <mark>He will not speak on his own; he will speak only what he hears</mark> ... He will glorify me because <mark>it is from me that he will receive what he will make known to you</mark>. All that belongs to the Father is mine. That is why I said the Spirit will receive from me what he will make known to you.” (John 16:12-16)  
 > What we have received is not the spirit of the world, but the Spirit who is from God, so that we may understand what God has freely given us. <mark>This is what we speak, not in words taught us by human wisdom but in words taught by the Spirit</mark>, explaining spiritual realities with Spirit-taught words. The person without the Spirit does not accept the things that come from the Spirit of God ... But we have the mind of Christ. (2 Cor 2:12-16)
 
-So **we listen to God by listening to his words**. The Bible is consistently clear on how we should seek God. **Throughout the Bible, God's people are continually called back to his Word**.
+So **we listen to God by listening to his words, by reading Scripture**. The Bible is consistently clear on how we should seek God. **Throughout the Bible, God's people are continually called back to his Word**.
 
 Abraham is commended for his faith, display when he listened to God and believed his promises:
 > Then the word of the Lord came to him: ... “Look up at the sky and count the stars—if indeed you can count them.” Then he said to him, “So shall your offspring be.” <mark>Abram believed the Lord</mark>, and he credited it to him as righteousness. (Gen 15:5-6)
@@ -106,6 +106,13 @@ Moses told the Israelites:
 
 King David said:
 > <mark>Blessed is the one ... whose delight is in the law of the Lord, and who meditates on his law day and night</mark>. (Psalm 1:1-2)
+
+And we read the Bible in order to know God:
+> This is what the Lord says: “Let not the wise boast of their wisdom, or the strong boast of their strength .. but <mark>let the one who boasts boast about this: that they have the understanding to know me</mark>." (Jeremiah 9:23-24)  
+> For <mark>I desire steadfast love</mark> and not sacrifice, <mark>the knowledge of God</mark> rather than burnt offerings. (Hosea 6:6, ESV)    
+
+
+<br/>
 
 In the New Testament, we find that **the focus of the Scripture is Jesus**:
 > And beginning with Moses and all the Prophets, he explained to them what <mark>was said in all the Scriptures concerning himself</mark>. (Luke 24:27)  
@@ -123,17 +130,14 @@ And conversely, we _only_ need the Bible:
 
 ### Knowing God
 
-So **we read the Bible in order to know and love God**, and particulary Jesus; in whom there are "boundless riches" to explore:
-
-> This is what the Lord says: “Let not the wise boast of their wisdom, or the strong boast of their strength .. but <mark>let the one who boasts boast about this: that they have the understanding to know me</mark>." (Jeremiah 9:23-24)  
-> For <mark>I desire steadfast love</mark> and not sacrifice, <mark>the knowledge of God</mark> rather than burnt offerings. (Hosea 6:6, ESV)    
+When we come to the Bible in order to know and love Jesus, we will find there are "boundless riches" to explore:
 > This grace was given me: <mark>to preach</mark> to the Gentiles <mark>the boundless riches of Christ</mark>. (Eph 3:8)
 
 Thus, Charles Spurgeon could say:
 > There is something exceedingly improving to the mind in a contemplation of <mark>the Divinity</mark>. It <mark>is a subject so vast, that all our thoughts are lost in its immensity</mark>; so deep, that our pride is drowned in its infinity …  
 > Would you lose your sorrow? Would you drown your cares? Then go, plunge yourself in the Godhead’s deepest sea; be lost in his immensity; and you shall come forth as from a couch of rest, refreshed and invigorated. I know nothing which can so comfort the soul; so calm the swelling billows of sorrow and grief; so speak peace to the winds of trial, as a devout musing upon the subject of the Godhead. (Sermon at New Park St Chapel, Southward, 7 Jan 1855)
 
-To approach this, we must learn to read the Bible in a way that lets it change us; we must learn to slow down and "meditate" on the Bible. **We want our study of the Bible to lead**:
+To grow in knowledge and love of God, we clearly must read the Bible in a way that lets it change us; we need to slow down and "meditate" on the Bible. **We want our study of the Bible to lead**:
  - **To prayer, and faith**. "<mark>I meditate</mark> on all your works and consider what your hands have done. ... <mark>Answer me quickly, Lord</mark> ... Show me the way I should go, for to you <mark>I entrust</mark> my life." (Psalms 143:5-8)
  - **To the heart**. "But what does it say? '<mark>The word is near you; it is in your mouth and in your heart</mark>,' that is, the message concerning faith that we proclaim: If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved. For it is with your heart that you believe and are justified, and it is with your mouth that you profess your faith and are saved" (Romans 10:8-9)
  - **To obedience**. "Keep this Book of the Law always on your lips; <mark>meditate on it day and night, so that you may be careful to do everything written in it</mark>." (Joshua 1:8) "Do not merely listen to the word, and so deceive yourselves. Do what it says." (James 1:22)
@@ -148,9 +152,9 @@ To approach this, we must learn to read the Bible in a way that lets it change u
 
 ## Meditating on Scripture
 
-So how do we humbly meditate on Scripture, in a way which lets it implant itself in us? 
+So _how_ do we humbly meditate on Scripture, in a way which lets it implant itself in us? 
 
-First, we can (and should) pray for the Spirit to enlighten us. This is a prayer which we prayed when we were [reading through Ephesians](https://listen.trinitysc.nz/browse/series/80) together.
+First, we can (and should) pray for the Spirit to enlighten us. This is a prayer which we prayed at Trinity when we were [reading through Ephesians](https://listen.trinitysc.nz/browse/series/80) together.
 
 > God of our Lord Jesus Christ, glorious Father, may you give each of us at Trinity, the Spirit of wisdom and revelation, so that we may know you better. 
 >
@@ -159,7 +163,7 @@ First, we can (and should) pray for the Spirit to enlighten us. This is a prayer
 > Lord, may these truths grip and thrill us so that we might be full of thanks and joy, being eager to live for you all our days. In Jesus' name, Amen
 {: .alert-info .rounded .p-3 .m-3}
 
-We then take our our time in the passage. Our aim is to be able to pray meaningfully from the passage. At its simplest, prayer involves expressing adoration and [gratitude](https://www.desiringgod.org/articles/start-asking-god-for-more), asking for forgiveness, and asking for God's blessing. Our reading therefore involves looking for things that make us love Jesus more; that convict us of our sin; or make us seek something new in God. So:
+Having prayed for the Spirit's work, we then take our our time in the passage. Our aim is to be able to pray meaningfully _from_ the passage; to respond to what God has said to us. At its simplest, prayer involves expressing adoration and [gratitude](https://www.desiringgod.org/articles/start-asking-god-for-more), asking for forgiveness, and asking for God's blessing. Our reading therefore involves looking for things that make us love Jesus more; that convict us of our sin; or make us seek something new in God. So:
 
 <div class="alert-info rounded p-3 m-3">
 <p><b>Slow down. Ask probing questions.</b></p>
