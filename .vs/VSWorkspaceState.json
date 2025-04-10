@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\media\\events",
+    "\\_events"
   ],
-  "SelectedNode": "\\about\\who-we-are.html",
+  "SelectedNode": "\\_events\\yawa.md",
   "PreviewInSolutionExplorer": false
 }

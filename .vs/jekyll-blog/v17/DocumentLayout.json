@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Github\\jekyll-blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_team\\steve-mcnabb.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_team\\steve-mcnabb.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_articles\\devotion.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_articles\\devotion.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_team\\leigh-greyling.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_team\\leigh-greyling.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\about\\our-leadership.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about\\our-leadership.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_articles\\apprentices.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_articles\\apprentices.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,41 +86,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "steve-mcnabb.md",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_team\\steve-mcnabb.md",
-              "RelativeDocumentMoniker": "_team\\steve-mcnabb.md",
-              "ToolTip": "C:\\Github\\jekyll-blog\\_team\\steve-mcnabb.md",
-              "RelativeToolTip": "_team\\steve-mcnabb.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-03T01:42:46.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "leigh-greyling.md",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_team\\leigh-greyling.md",
-              "RelativeDocumentMoniker": "_team\\leigh-greyling.md",
-              "ToolTip": "C:\\Github\\jekyll-blog\\_team\\leigh-greyling.md",
-              "RelativeToolTip": "_team\\leigh-greyling.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "apprentices.md",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_articles\\apprentices.md",
+              "RelativeDocumentMoniker": "_articles\\apprentices.md",
+              "ToolTip": "C:\\Github\\jekyll-blog\\_articles\\apprentices.md",
+              "RelativeToolTip": "_articles\\apprentices.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-03T01:39:35.616Z",
+              "WhenOpened": "2025-04-06T03:54:14.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "our-leadership.html",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\about\\our-leadership.html",
-              "RelativeDocumentMoniker": "about\\our-leadership.html",
-              "ToolTip": "C:\\Github\\jekyll-blog\\about\\our-leadership.html",
-              "RelativeToolTip": "about\\our-leadership.html",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-03T01:35:35.961Z",
+              "DocumentIndex": 0,
+              "Title": "devotion.md",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_articles\\devotion.md",
+              "RelativeDocumentMoniker": "_articles\\devotion.md",
+              "ToolTip": "C:\\Github\\jekyll-blog\\_articles\\devotion.md",
+              "RelativeToolTip": "_articles\\devotion.md",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-06T03:48:53.562Z",
               "EditorCaption": ""
             }
           ]
