@@ -8,14 +8,14 @@ permalink: /stepping-up/devotion
 What does it mean to have a relationship with God? How do we grow as Christians? Why are Quiet Times so hard to persist with? Why does reading the Bible so often feel dry? What is, or should be, the point of studying the Bible? In a sense, the answer to all these questions lies in the concept of Devotion.
 <!--excerpt end-->
 
-"Devotion" has many interpretations, but in a general sense we think of it as the showing of love and loyalty to someone. Devotion to God therefore displays our  love and loyalty to him. To think correctly about what that looks like, we need to start with understanding what exactly is our relationship to him. At heart, this means beginning (all it does for all matters Christian) with the Gospel.
+"Devotion" has many interpretations, but in a general sense we think of it as the showing of love and loyalty to someone. Devotion to God therefore displays our  love and loyalty to him. To think correctly about what that looks like, we need to start with understanding what exactly is our relationship to him. At heart, this means beginning all it does for all matters Christian) with the Gospel.
 
 -----
 
 ## The Gospel
 
 We can summarise the message of the New Testament as [_adoption through propitiation_](https://www.thegospelcoalition.org/blogs/justin-taylor/how-would-you-summarize-the-new-testament-in-three-words/). Simply put, **because the Son of God willingly became man and gave his life for us on the Cross, those who believe in him are no longer enemies of God, but are God's children.** 
-> This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins ... See what great love the Father has lavished on us, that we should be called children of God! And that is what we are! (1 John 4:10, 1 John 3:1)
+> This is love: not that we loved God, but that he loved us and sent his Son as an ==atoning sacrifice== for our sins ... See what great love the Father has lavished on us, that we should be called ==children of God==! And that is what we are! (1 John 4:10, 1 John 3:1)
 
 ### Christ is our Saviour
 
