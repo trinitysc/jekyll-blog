@@ -15,7 +15,7 @@ What does it mean to have a relationship with God? How do we grow as Christians?
 ## The Gospel
 
 We can summarise the message of the New Testament as [_adoption through propitiation_](https://www.thegospelcoalition.org/blogs/justin-taylor/how-would-you-summarize-the-new-testament-in-three-words/). Simply put, **because the Son of God willingly became man and gave his life for us on the Cross, those who believe in him are no longer enemies of God, but are God's children.** 
-> This is love: not that we loved God, but that he loved us and sent his Son as an ==atoning sacrifice== for our sins ... See what great love the Father has lavished on us, that we should be called ==children of God==! And that is what we are! (1 John 4:10, 1 John 3:1)
+> This is love: not that we loved God, but that he loved us and sent his Son as an <mark>atoning sacrifice</mark> for our sins ... See what great love the Father has lavished on us, that we should be called <mark>children of God</mark>! And that is what we are! (1 John 4:10, 1 John 3:1)
 
 ### Christ is our Saviour
 
