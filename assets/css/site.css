@@ -11,9 +11,13 @@ a {
 }
 
 blockquote {
-  margin-left: 1rem;
+  margin-left: 1.2rem;
   color: var(--gray-dark);
 }
+
+  blockquote br {
+     margin-bottom:0.5rem;
+  }
 
 .julius {
   font-family: "Julius Sans One", sans-serif;
@@ -107,6 +111,12 @@ body > footer {
 h1 {
   margin-top: 1rem;
   margin-bottom: 3rem;
+}
+
+hr {
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, rgba(8,42,82,0),rgba(8,42,82,0.75),rgba(8,42,82,0));
 }
 
 /* FAQs */

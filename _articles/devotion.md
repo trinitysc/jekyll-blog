@@ -189,6 +189,7 @@ Having prayed for the Spirit's work, we then take our our time in the passage. O
 </ul>
 </div>
 
+-----
 
 ## Practicalities
 
