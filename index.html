@@ -90,7 +90,7 @@ permalink: /
         {% if event_date >= today_date %}
         <div class="col-sm-4 mb-3">
           <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
-          <h4>{{ event.title }} </h4>
+          <h4><a href="{{ event.url }}">{{ event.title }}</a></h4>
           {{ event.excerpt }}
         </div>
         {% endif %}
