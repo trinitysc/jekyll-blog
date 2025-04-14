@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\media\\events",
-    "\\_events"
+    "\\media",
+    "\\media\\events"
   ],
-  "SelectedNode": "\\_events\\yawa.md",
+  "SelectedNode": "\\_includes\\head.html",
   "PreviewInSolutionExplorer": false
 }
