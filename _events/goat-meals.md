@@ -2,6 +2,7 @@
 layout: event
 title: GOAT Meals
 tags: members
+permalink: /goat-meals
 date: 2025-06-08
 ---
 
