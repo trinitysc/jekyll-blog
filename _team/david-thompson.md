@@ -1,3 +1,4 @@
+REMOVED
 ---
 layout: staff
 name: David Thompson

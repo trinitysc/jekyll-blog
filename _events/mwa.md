@@ -2,11 +2,13 @@
 layout: event
 title: Men's Weekend Away
 tags: members
-date: 2024-09-05
+date: 2025-08-28
 permalink: /mwa
 ---
 
-This year’s MWA is Thursday 5 – Saturday 7 September 2024 in Hanmer Springs. We will be staying in holiday houses. It will be an excellent time of great food, superb company, and spiritual refreshment. Please register below.
+This year’s MWA is Thursday 28 – Saturday 30 August 2025 in Hanmer Springs. 
+More details to come, but it will be an excellent time of great food, superb company, and spiritual refreshment. 
+Please register below.
 
 <!--excerpt end-->
 
