@@ -2,7 +2,7 @@
 layout: event
 title: Christianity Explored
 tags: visitors members
-date: 2025-05-21
+date: 2025-05-28
 ---
   
 Our [Christianity Explored](/christianity-explored) course is currently running. 
