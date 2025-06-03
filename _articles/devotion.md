@@ -163,7 +163,11 @@ First, we can (and should) pray for the Spirit to enlighten us. This is a prayer
 > Lord, may these truths grip and thrill us so that we might be full of thanks and joy, being eager to live for you all our days. In Jesus' name, Amen
 {: .alert-info .rounded .p-3 .m-3}
 
-Having prayed for the Spirit's work, we then take our our time in the passage. Our aim is to be able to pray meaningfully _from_ the passage; to respond to what God has said to us. At its simplest, prayer involves expressing adoration and [gratitude](https://www.desiringgod.org/articles/start-asking-god-for-more), asking for forgiveness, and asking for God's blessing. Our reading therefore involves looking for things that make us love Jesus more; that convict us of our sin; or make us seek something new in God. So:
+Having prayed for the Spirit's work, we then take our our time in the passage. Our aim is to move beyond understanding the passage to being
+moved by it. Practically, we want to be able to pray meaningfully _from_ the passage; to respond to what God has said to us. 
+At its simplest, prayer involves expressing adoration and [gratitude](https://www.desiringgod.org/articles/start-asking-god-for-more), 
+asking for forgiveness, and asking for God's blessing. Our reading therefore involves looking for things that make us love Jesus more; 
+that convict us of our sin; or make us seek something new in God. So:
 
 <div class="alert-info rounded p-3 m-3">
 <p><b>Understand</b>. What does the passage say?</p>
@@ -200,6 +204,26 @@ For help seeing the Big Picture, check out _[God's Big Picture](https://www.gods
 
 When it comes to prayer, some find it helpful to look at prayers written by others, like [Charles Spurgeon](https://www.spurgeongems.org/spurgeon-prayers/),
 or even [those of Jesus](https://www.crossway.org/books/the-prayers-of-jesus-tpb/).
+
+### Sermons on Devotion
+
+<div class="row mb-4">
+  <div class="col-md-4">
+
+    <div class="card bg-light mb-3" style="max-width: 20rem;">
+      <img src="https://api.sermo.nz/trinitysc/api/v1/series/277/thumbnail" class="card-img-top" alt="Logo" />
+      <div class="card-header"><b>Topical</b></div>
+      <div class="card-body">
+        <h5 class="card-title">Maturity in Christ</h5>
+        <a class="btn btn-primary" href="https://listen.trinitysc.nz/browse/series/277">Listen</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+Also check out: 
+ - [Praying and the Voice of God, by Jamie Child](https://www.crosswaystratford.org/sermons/praying-and-the-voice-of-god)
 
 ### Further Reading on Devotion
 
