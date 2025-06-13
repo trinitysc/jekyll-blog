@@ -69,6 +69,7 @@ By contrast, **we are able to talk to God as "our Father"**:
 > Since we have confidence to enter the Most Holy Place by the blood of Jesus ... and since we have a great priest over the house of God, <mark>let us draw near to God</mark> with a sincere heart and with the full assurance that faith brings. (Hebrews 10:11-22)  
 > “This, then, is how you should pray: ‘<mark>Our Father in heaven</mark>...'" (Matt 6:9)  
 
+See also Romans 8:15
 
 
 ### We have an Eternal Hope
