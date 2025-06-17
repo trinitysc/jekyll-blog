@@ -2,10 +2,10 @@
 layout: event
 title: Church Lunch
 tags: members, visitors
-date: 2025-03-30
+date: 2025-08-03
 ---
 
-From 12:30pm on the 30th of March we will be sharing lunch togther as a church.
+From 12:30pm on August 3rd we will be sharing lunch togther as a church.
 <!--excerpt end-->
 
 Details to follow.
