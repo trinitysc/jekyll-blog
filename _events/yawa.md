@@ -6,8 +6,13 @@ date: 2025-06-19
 permalink: /yawa
 ---
 
-Welcome back to another **Young Adults Weekend Away**! This year, our theme is spies. Prepare for a weekend of intrigue as we head once more to the STAC Castle Hill Lodge for **Matariki weekend (Thursday 19th - Saturday 21st June)**.
+Welcome back to another **Young Adults Weekend Away**!
 
-Please let us know if you are interested in coming on [this form](https://docs.google.com/forms/d/e/1FAIpQLSdUvOg1vxUryiMtS8ZrrcNkSKYvu3m6QhkTq5vO7VkopgO3NQ/viewform).
+Once again on Matariki weekend (Thursday 19th to Saturday 21st June) we are heading to the STAC Lodge at Castle Hill for a weekend 
+of fun and fellowship. This year, our theme is spies, so prepare yourself for some spy themed activities as we hear from Rob Morton 
+(Director of the Tim Training Course) as he opens up the Bible to talk to us about fellowship. 
+<!--excerpt end-->
 
-Any questions, email <youngadults@trinitysc.nz>, or come ask a member of the Council (this year: Thomas McAven, Antonio Sidonio, Sarah Anthony, Jamie Hunt, Matthew Phillips).
+Please sign up using [this form](https://forms.gle/jKBp6p7PojKycfUp6).
+
+If you have any questions, please email <youngadults@trinitysc.nz>, or come ask a member of the Council (Thomas McAven, Antonio Sidonio, Sarah Anthony, Jamie Hunt, Matthew Phillips).

@@ -1,3 +1,4 @@
+REMOVED
 ---
 name: Ethan Wong
 role: Church Administrator

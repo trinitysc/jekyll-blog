@@ -35,7 +35,7 @@ While it's hard to argue that we can ever over-emphasise the cross, sometimes we
 > In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made. ... <mark>The Word became flesh and made his dwelling among us. We have seen his glory</mark>, the glory of the one and only Son, who came from the Father, full of grace and truth. (John 1:1-14)
 
 Somehow the Son of God became a human. And as a human, **Jesus voluntarily submitted himself the will of his Father**:
-> Very truly I tell you, the Son can do nothing by himself; he can do only what he sees his Father doing, because <mark>whatever the Father does the Son also does</mark> ... By myself I can do nothing; I judge only as I hear, and my judgment is just, for I seek not to please myself but him who sent me." (John 5:19-30)
+> "Very truly I tell you, the Son can do nothing by himself; he can do only what he sees his Father doing, because <mark>whatever the Father does the Son also does</mark> ... By myself I can do nothing; I judge only as I hear, and my judgment is just, for I seek not to please myself but him who sent me." (John 5:19-30)
 
 **In his submission, Jesus suffered** as he was tempted, resisting to become the perfect man.
 > Because <mark>he himself suffered</mark> when he was tempted, he is able to help those who are being tempted. (Hebrews 2:18).  
@@ -69,6 +69,7 @@ By contrast, **we are able to talk to God as "our Father"**:
 > Since we have confidence to enter the Most Holy Place by the blood of Jesus ... and since we have a great priest over the house of God, <mark>let us draw near to God</mark> with a sincere heart and with the full assurance that faith brings. (Hebrews 10:11-22)  
 > “This, then, is how you should pray: ‘<mark>Our Father in heaven</mark>...'" (Matt 6:9)  
 
+See also Romans 8:15
 
 
 ### We have an Eternal Hope
@@ -126,7 +127,7 @@ So **we read the Bible primarily to find Jesus**.
 
 
 And conversely, we _only_ need the Bible:
-> As for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it, and how from infancy you have known <mark>the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus. All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be _thoroughly equipped_ for every good work</mark>. (2 Timothy 3:14-17)
+> As for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it, and how from infancy you have known <mark>the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus. All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for <i>every</i> good work</mark>. (2 Timothy 3:14-17)
 
 ### Knowing God
 
@@ -163,7 +164,11 @@ First, we can (and should) pray for the Spirit to enlighten us. This is a prayer
 > Lord, may these truths grip and thrill us so that we might be full of thanks and joy, being eager to live for you all our days. In Jesus' name, Amen
 {: .alert-info .rounded .p-3 .m-3}
 
-Having prayed for the Spirit's work, we then take our our time in the passage. Our aim is to be able to pray meaningfully _from_ the passage; to respond to what God has said to us. At its simplest, prayer involves expressing adoration and [gratitude](https://www.desiringgod.org/articles/start-asking-god-for-more), asking for forgiveness, and asking for God's blessing. Our reading therefore involves looking for things that make us love Jesus more; that convict us of our sin; or make us seek something new in God. So:
+Having prayed for the Spirit's work, we then take our our time in the passage. Our aim is to move beyond understanding the passage to being
+moved by it. Practically, we want to be able to pray meaningfully _from_ the passage; to respond to what God has said to us. 
+At its simplest, prayer involves expressing adoration and [gratitude](https://www.desiringgod.org/articles/start-asking-god-for-more), 
+asking for forgiveness, and asking for God's blessing. Our reading therefore involves looking for things that make us love Jesus more; 
+that convict us of our sin; or make us seek something new in God. So:
 
 <div class="alert-info rounded p-3 m-3">
 <p><b>Understand</b>. What does the passage say?</p>
@@ -196,10 +201,30 @@ Having prayed for the Spirit's work, we then take our our time in the passage. O
 ### Reading the Bible
 Practically speaking, it can help to have a Reading Plan. Robert Murray M’Cheyne's [reading plan](https://www.mcheyne.info/calendar.pdf) has been a blessing to devout Christians since the mid 1800's. Or there is a [Bible Reading plan for Shirkers & Slackers](https://ransomfellowship.org/wp-content/uploads/2017/03/Bible-Reading-Program-for-Shirkers-and-Slackers.pdf). Or your Bible may have already come with a reading plan. For a bit more structure when reading with someone else, [The Word one-to-one](https://www.theword121.com/) provides guided reads through John's Gospel and the book of Acts.
 
-For help seeing the Big Picture, check out _[God's Big Pucture](https://www.godsbigpicture.co.uk/)_ by Vaughan Roberts, or Graeme Goldsworthy's _[According to Plan](https://www.ivpress.com/according-to-plan)_. For a lighter walk through the Bible, being released weekly through 2025, checkout our [40 Idioms](https://40-idioms.com) website.
+For help seeing the Big Picture, check out _[God's Big Picture](https://www.godsbigpicture.co.uk/)_ by Vaughan Roberts, or Graeme Goldsworthy's _[According to Plan](https://www.ivpress.com/according-to-plan)_. For a lighter walk through the Bible, being released weekly through 2025, check out our [40 Idioms](https://40-idioms.com) website.
 
 When it comes to prayer, some find it helpful to look at prayers written by others, like [Charles Spurgeon](https://www.spurgeongems.org/spurgeon-prayers/),
 or even [those of Jesus](https://www.crossway.org/books/the-prayers-of-jesus-tpb/).
+
+### Sermons on Devotion
+
+<div class="row mb-4">
+  <div class="col-md-4">
+
+    <div class="card bg-light mb-3" style="max-width: 20rem;">
+      <img src="https://api.sermo.nz/trinitysc/api/v1/series/277/thumbnail" class="card-img-top" alt="Logo" />
+      <div class="card-header"><b>Topical</b></div>
+      <div class="card-body">
+        <h5 class="card-title">Maturity in Christ</h5>
+        <a class="btn btn-primary" href="https://listen.trinitysc.nz/browse/series/277">Listen</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+Also check out: 
+ - [Praying and the Voice of God, by Jamie Child](https://www.crosswaystratford.org/sermons/praying-and-the-voice-of-god)
 
 ### Further Reading on Devotion
 

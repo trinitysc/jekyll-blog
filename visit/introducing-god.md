@@ -17,8 +17,8 @@ Christian roots? Somewhere in between? You are very welcome.
 We'll enjoy dinner together and have some time getting to know each other before
 watching a short video and discussing the ideas it raises.
 
-We meet on Wednesday nights, 7-9pm, at Trinity Church, 200 Colombo Street beginning
-February 12. Introducing God runs for 7 weeks but there’s no need to commit to the
+We meet on Wednesday nights, 7:30-9:00pm, at Trinity Church, 200 Colombo Street beginning
+July 23. Introducing God runs for 7 weeks but there’s no need to commit to the
 whole thing now, just come along for the first week and see how it goes!
 
 Introducing God is free of charge. [Contact Pam](mailto:pam@trinitysc.nz) to find out about 
