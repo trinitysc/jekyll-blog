@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\media",
+    "\\media\\banners",
+    "\\_articles",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\_articles\\devotion.md",
+  "SelectedNode": "\\media\\banners\\communion.jpg",
   "PreviewInSolutionExplorer": false
 }

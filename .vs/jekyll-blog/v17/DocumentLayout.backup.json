@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_articles\\devotion.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_articles\\devotion.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_events\\welcome-lunch.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_events\\welcome-lunch.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -100,35 +92,9 @@
               "RelativeDocumentMoniker": "_articles\\devotion.md",
               "ToolTip": "C:\\Github\\jekyll-blog\\_articles\\devotion.md",
               "RelativeToolTip": "_articles\\devotion.md",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAkwEYAAAC/AAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-17T01:17:38.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "welcome-lunch.md",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_events\\welcome-lunch.md",
-              "RelativeDocumentMoniker": "_events\\welcome-lunch.md",
-              "ToolTip": "C:\\Github\\jekyll-blog\\_events\\welcome-lunch.md",
-              "RelativeToolTip": "_events\\welcome-lunch.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-17T01:15:07.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Github\\jekyll-blog\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-22T00:13:24.482Z",
+              "WhenOpened": "2025-06-23T02:18:41.93Z",
               "EditorCaption": ""
             }
           ]
