@@ -305,6 +305,9 @@ img {
 p.brochure {
   width: 80%;
   margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .brochure strong {

@@ -5,7 +5,7 @@ tags: members visitors
 permalink: /articles/devotion
 ---
 
-At Trinity, we are seeking to grow in love for Jesus.  This starts with the gospel, and with understanding who we are in Christ. We know we love Jesus when we love the things Jesus loves. We know what Jesus loves because we find it in the Bible. 
+At Trinity, [we are seeking](/about/who-we-are) to grow in love for Jesus.  This starts with the gospel, and with understanding who we are in Christ. We know we love Jesus when we love the things Jesus loves. We know what Jesus loves because we find it in the Bible. 
 <!--excerpt end-->
 
 -----
@@ -24,7 +24,7 @@ More than that, **we are loved by the Father in the same way Jesus is loved by t
 This means that ultimately, **as God's children we are also heirs of an eternal hope: that of being with Jesus and sharing in his glory**:
 > Now if we are children, then <mark>we are heirs—-heirs of God and co-heirs with Christ</mark>, if indeed we share in his sufferings in order that we may also share in his glory. (Romans 8:17)  
 
-([Read more](/articles/devition/heart-of-the-gospel/))
+([Read more](/articles/devotion/heart-of-the-gospel/))
 
 -----
 
@@ -44,7 +44,7 @@ Primarily the role of the Holy Spirit was to inspire the authors of Scripture, w
  - **To the heart**. "But what does it say? '<mark>The word is near you; it is in your mouth and in your heart</mark>,' that is, the message concerning faith that we proclaim: If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved. For it is with your heart that you believe and are justified, and it is with your mouth that you profess your faith and are saved" (Romans 10:8-9)
  - **To obedience**. "Keep this Book of the Law always on your lips; <mark>meditate on it day and night, so that you may be careful to do everything written in it</mark>." (Joshua 1:8) "Do not merely listen to the word, and so deceive yourselves. Do what it says." (James 1:22)
 
- ([Read more](/articles/devition/enjoying-the-father/))
+ ([Read more](/articles/devotion/enjoying-the-father/))
 
 -----
 
@@ -58,7 +58,7 @@ We can then start by reading as we would when we try to understand any text. We 
 
 Because this is the Bible, we ask: What does the passage say about Jesus (or God)? What does this say about what Jesus loves? What does the passage say about man's relationship with Jesus? How does the passage show about Jesus for which I can show gratitude? How does the passage highlight a sin for which I can ask forgiveness? How does the passage show a deficiency in godliness for which I can petition the Father?
 
-([Read more](/articles/devition/meditating-on-scripture/))
+([Read more](/articles/devotion/meditating-on-scripture/))
 
 -----
 
