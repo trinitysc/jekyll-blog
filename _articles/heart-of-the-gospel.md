@@ -3,6 +3,8 @@ layout: article
 title: The Heart of the Gospel
 tags: members visitors
 permalink: /articles/devotion/heart-of-the-gospel/
+banner: /media/banners/bible.jpg
+order: 4
 ---
 
 We can summarise the message of the New Testament as [_adoption through propitiation_](https://www.thegospelcoalition.org/blogs/justin-taylor/how-would-you-summarize-the-new-testament-in-three-words/). Simply put, **<mark>because the Son of God willingly became man and gave his life for us on the Cross, those who believe in him are no longer enemies of God, but are God's children</mark>**:

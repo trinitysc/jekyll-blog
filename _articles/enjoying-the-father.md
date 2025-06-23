@@ -2,7 +2,9 @@
 layout: article
 title: Enjoying the Father
 tags: members visitors
+banner: /media/banners/bible.jpg
 permalink: /articles/devotion/enjoying-the-father
+order: 5
 ---
 
 However, while we might _be_ God's children, destined for eternal glory, in the mundane reality of daily life we often don't _feel_ like God's children. How then do we enjoy the intimacy implied by this familial description? 

@@ -2,7 +2,9 @@
 layout: article
 title: Devotion
 tags: members visitors
+banner: /media/banners/bible.jpg
 permalink: /articles/devotion
+order: 3
 ---
 
 At Trinity, [we are seeking](/about/who-we-are) to grow in love for Jesus.  This starts with the gospel, and with understanding who we are in Christ. We know we love Jesus when we love the things Jesus loves. We know what Jesus loves because we find it in the Bible. 
