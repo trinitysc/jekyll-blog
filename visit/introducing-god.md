@@ -17,7 +17,7 @@ Christian roots? Somewhere in between? You are very welcome.
 We'll enjoy dinner together and have some time getting to know each other before
 watching a short video and discussing the ideas it raises.
 
-We meet on Wednesday nights, 7:30-9:00pm, at Trinity Church, 200 Colombo Street beginning
+We meet on Wednesday nights, 7:090-9:00pm, at Trinity Church, 200 Colombo Street beginning
 July 23. Introducing God runs for 7 weeks but there’s no need to commit to the
 whole thing now, just come along for the first week and see how it goes!
 

@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\media",
-    "\\media\\banners",
-    "\\_articles",
-    "\\_layouts"
+    "\\_events"
   ],
-  "SelectedNode": "\\media\\banners\\communion.jpg",
+  "SelectedNode": "\\_events\\introducing-god.md",
   "PreviewInSolutionExplorer": false
 }
