@@ -2,7 +2,7 @@
 layout: event
 title: Welcome Lunch
 tags: visitors
-date: 2025-07-27
+date: 2025-08-30
 ---
 
 Our next regular welcome lunch, for those who are considering making Trinity 
