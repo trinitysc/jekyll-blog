@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Github\\jekyll-blog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\visit\\subtitles.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:visit\\subtitles.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\visit\\introducing-god.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:visit\\introducing-god.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     },
@@ -111,6 +115,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "subtitles.html",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\visit\\subtitles.html",
+              "RelativeDocumentMoniker": "visit\\subtitles.html",
+              "ToolTip": "C:\\Github\\jekyll-blog\\visit\\subtitles.html",
+              "RelativeToolTip": "visit\\subtitles.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-30T11:43:22.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "introducing-god.md",
               "DocumentMoniker": "C:\\Github\\jekyll-blog\\visit\\introducing-god.md",
               "RelativeDocumentMoniker": "visit\\introducing-god.md",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "introducing-god.md",
               "DocumentMoniker": "C:\\Github\\jekyll-blog\\_events\\introducing-god.md",
               "RelativeDocumentMoniker": "_events\\introducing-god.md",
@@ -131,12 +148,11 @@
               "RelativeToolTip": "_events\\introducing-god.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-07-16T01:54:52.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T01:54:52.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "newsletter-signup.html",
               "DocumentMoniker": "C:\\Github\\jekyll-blog\\_includes\\newsletter-signup.html",
               "RelativeDocumentMoniker": "_includes\\newsletter-signup.html",
@@ -144,12 +160,11 @@
               "RelativeToolTip": "_includes\\newsletter-signup.html",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAADIAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-15T23:28:39.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T23:28:39.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "newsletter.html",
               "DocumentMoniker": "C:\\Github\\jekyll-blog\\newsletter.html",
               "RelativeDocumentMoniker": "newsletter.html",
@@ -157,12 +172,11 @@
               "RelativeToolTip": "newsletter.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-15T23:28:35.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T23:28:35.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Github\\jekyll-blog\\assets\\css\\site.css",
               "RelativeDocumentMoniker": "assets\\css\\site.css",
@@ -170,12 +184,11 @@
               "RelativeToolTip": "assets\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-15T05:32:19.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T05:32:19.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Github\\jekyll-blog\\assets\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "assets\\css\\bootstrap.css",
@@ -183,12 +196,11 @@
               "RelativeToolTip": "assets\\css\\bootstrap.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAPUbAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-15T05:32:16.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T05:32:16.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_variables.scss",
               "DocumentMoniker": "C:\\Github\\jekyll-blog\\assets\\css\\_variables.scss",
               "RelativeDocumentMoniker": "assets\\css\\_variables.scss",
@@ -196,8 +208,7 @@
               "RelativeToolTip": "assets\\css\\_variables.scss",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2025-07-15T05:28:53.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T05:28:53.483Z"
             }
           ]
         }

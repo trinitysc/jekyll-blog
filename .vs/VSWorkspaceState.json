@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\media",
+    "\\visit"
   ],
-  "SelectedNode": "\\visit\\introducing-god.md",
+  "SelectedNode": "\\.github",
   "PreviewInSolutionExplorer": false
 }
