@@ -10,5 +10,4 @@ GOAT Meals are for us to Gather Over A Table, and we would love you to save the 
 
 <!--excerpt end-->
 
-Registrations are now open [here](https://docs.google.com/forms/d/e/1FAIpQLSdEjA2vcPG8AZS7eF8n6mYiW7TJ2BvnvjTe8ZukDR9JfNPw4w/viewform?usp=dialog). 
-Please fill this in to aid the staff in putting people together well. 
+Registrations are now closed, but if you'd like to sign up please email Mackenzie at mackenzie@trinitysc.nz so she can allocate you to a meal. 
