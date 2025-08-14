@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\media",
-    "\\visit"
+    "\\visit",
+    "\\_events"
   ],
-  "SelectedNode": "\\.github",
+  "SelectedNode": "\\_events\\goat-meals.md",
   "PreviewInSolutionExplorer": false
 }
