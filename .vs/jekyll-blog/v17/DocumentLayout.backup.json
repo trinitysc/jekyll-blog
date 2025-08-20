@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Github\\jekyll-blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\visit\\subtitles.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:visit\\subtitles.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Github\\jekyll-blog\\_events\\all-aboard.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_events\\all-aboard.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,14 +87,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "subtitles.html",
-              "DocumentMoniker": "C:\\Github\\jekyll-blog\\visit\\subtitles.html",
-              "RelativeDocumentMoniker": "visit\\subtitles.html",
-              "ToolTip": "C:\\Github\\jekyll-blog\\visit\\subtitles.html",
-              "RelativeToolTip": "visit\\subtitles.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-30T11:57:14.939Z",
+              "Title": "all-aboard.md",
+              "DocumentMoniker": "C:\\Github\\jekyll-blog\\_events\\all-aboard.md",
+              "RelativeDocumentMoniker": "_events\\all-aboard.md",
+              "ToolTip": "C:\\Github\\jekyll-blog\\_events\\all-aboard.md",
+              "RelativeToolTip": "_events\\all-aboard.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-14T08:25:28.363Z",
               "EditorCaption": ""
             }
           ]

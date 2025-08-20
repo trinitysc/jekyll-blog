@@ -2,7 +2,7 @@
 layout: event
 title: Ministry Apprentices
 tags: members
-date: 2025-08-25
+date: 2025-09-03
 ---
 
-Our 2026 Apprentice VIsion Evening is on 25 Aug.
+Our 2026 Apprentice Vision Evening is on 3 September.
