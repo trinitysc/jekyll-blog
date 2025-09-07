@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Take a Walk in My Worldview
+title: Guest Services
 tags: visitors
 date: 2025-09-14
 ---
