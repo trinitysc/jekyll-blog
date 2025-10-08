@@ -23,4 +23,5 @@ Thumbs.db
 
 # Visual Studio cache/options directory
 .vs
+.vs/
 .vs/*
