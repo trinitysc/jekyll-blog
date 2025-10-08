@@ -10,7 +10,7 @@ Come and explore who Jesus is and how you can know him. We'll take a gently-pace
 how Jesus is presented in the Gospel of Mark. You will be able to ask questions or just
 sit back and listen to other people’s ideas. 
 
-We meet on Wednesday nights, 7-9pm, at Trinity Church, 200 Colombo Street. Christianity Explored runs for 7 weeks but there’s no need to commit to the
+We meet on Wednesday nights, 7:30-9pm, at Trinity Church, 200 Colombo Street. Christianity Explored runs for 7 weeks but there’s no need to commit to the
 whole thing now, just come along for the first week and see how it goes!
 
 Christianity Explored is free of charge. Sign up below or [Contact Pam](mailto:pam@trinitysc.nz) to find out more about the next course.
