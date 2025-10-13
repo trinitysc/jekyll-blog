@@ -1,8 +1,12 @@
 ---
 layout: event
-title: Men's Breakfast Workshop
+title: Men's Breakfast
 tags: members mens
-date: 2025-03-01
+date: 2025-11-08
 ---
 
-Our next men's breakfast will be on the 1st of March. Afterwards we will have a workshop looking at our morning quiet times. Meet 8am at 200 Colombo Street. We'll run through to 9:45. Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSfTyletp8NsNlIrl5x_TNK-vPCO31ckkbrEvx3RxaYXHtguUQ/viewform) or email <info@trinitysc.nz>. Recommended Koha $5 into the church account.
+Our next men's breakfast will be on the 8th of November. We will enjoy fellowship and a short talk on _Men's Biblical Frienship_. Meet 8:30am at 200 Colombo Street, in the church lounge. Sign up [here](https://trinitysouthchch.churchsuite.com/-/forms/q2ccfrn5) or email <info@trinitysc.nz>. $10 for adults, $5 for students.
+<!--excerpt end-->
+
+![Men's Breakfast Flyer](/media/events/mens-breakfast.png)
+
