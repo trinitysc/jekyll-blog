@@ -15,4 +15,4 @@ of fun and fellowship. This year, our theme is spies, so prepare yourself for so
 
 Please sign up using [this form](https://forms.gle/jKBp6p7PojKycfUp6).
 
-If you have any questions, please email <youngadults@trinitysc.nz>, or come ask a member of the Council (Thomas McAven, Antonio Sidonio, Sarah Anthony, Jamie Hunt, Matthew Phillips).
+If you have any questions, please email <youngadults@trinitysc.nz>, or come ask a member of the Council (Thomas McAven, Sarah Anthony, Jamie Hunt, Matthew Phillips).
