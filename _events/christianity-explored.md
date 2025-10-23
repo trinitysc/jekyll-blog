@@ -2,7 +2,7 @@
 layout: event
 title: Christianity Explored
 tags: visitors members
-date: 2025-10-15
+date: 2025-10-29
 ---
   
 Our [Christianity Explored](/christianity-explored) course starts on Wednesday 15 October. 
