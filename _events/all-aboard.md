@@ -2,7 +2,7 @@
 layout: event
 title: All Aboard Course
 tags: members
-date: 2025-10-28
+date: 2025-11-04
 ---
 
 Our next "All Aboard" course starts on Tuesday 21st October (7.30-9.15). 
