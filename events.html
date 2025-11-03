@@ -11,34 +11,24 @@ permalink: /events/
       We meet every Sunday at <a href="/visit/traditional">9 am</a>,  <a href="/visit/family">10:45 am</a>, and
       <a href="/visit/evening">6 pm</a>
       at <a href="/visit/location">200 Colombo St, Sydenham</a>.
-<p>
+    <p>
       <a class="btn btn-primary" href="/visit/sundays">Find out more</a>
   </div>
 </div>
 
-{% assign today_date = 'today' | date: '%s' %}
-{% assign events = site.events | order: "date"  %}
-
-<div class="row">
-  <!-- -->
-  {% for event in events %}
-  {% assign event_date = event.date | date: '%s' %}
-  {% if event_date >= today_date %}
-  <div class="col-sm-4 mb-3 scroll-animate fade-in-bottom scroll-once">
-    <b style="color:#999">{{ event.date | date: "%b %d" }}</b><br />
-    <h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
-    {{ event.excerpt }}
-    {% if event.tag == "visitors" %}
-    <span class="badge badge-pill badge-info">{{ event.tag }}</span>
-    {% else %}
-    <span class="badge badge-pill badge-secondary">{{ event.tag }}</span>
-    {% endif %}
-
-    <style scoped> p { margin-bottom: 1px;} </style>
-  </div>
-  {% endif %}
-  {% endfor %}
+<div class="row" x-data="CSEvents({configuration: '27fb9deb-645e-4989-a343-1451745516ad'})">
+  <template x-for="event in events"><!-- There can only be one element within the template -->
+    <div class="col-sm-4 mb-3">
+      <b style="color:#999" x-text="event.start.format('DD MMM')"></b>
+      <span style="color:#999" x-text="event.start.format('h:mma')"></span> - <span style="color:#999" x-text="event.end.format('h:mma')"></span>
+      <br />
+      <h3><a :href="event.link" x-text="event.name"></a></h3>
+      <div x-html="event.description"></div>
+    </div>
+  </template>
 </div>
+
+
 <div class="row jumbotron p-3 mb-3 scroll-animate fade-in-bottom scroll-once">
   <div class="col">
     <p>Interested in coming to one of the events? <a href="/contact">Let us know</a>.</p>
