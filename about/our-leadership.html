@@ -8,13 +8,12 @@ permalink: /about/our-leadership
   <div class="col-12">
     <p>At Trinity, our hope is that every member has both the desire and opportunity to serve. We believe that Jesus has given every Christian gifts to serve--to <i>minister to</i>--their fellow Christians and to the community around them. And we see each other taking joy in welcoming newcomers; making and bringing food; serving tea and coffee; visiting each other; making meals for the sick; filling in forms; photocopying things.</p>
     <p>Some are called to more specific, and visible, roles. Here are some the people you're likely to meet if you come on a Sunday.</p>
-    <h2>Our Leadership</h2>
   </div>
 </div>
 <div class="row people leadership p-3">
   {% assign members = site.team | where: "banner", true | sort:"order"  %}
   {% for member in members %}
-  <div class="col-sm-6 scroll-animate scroll-once fade-in">
+  <div class="col-sm-4 scroll-animate scroll-once fade-in">
     <img style="max-width:90%; margin:20px 5%;" alt="{{ member.title }}" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
     <p class="m-0" style="color:#999;"><b>{{ member.role }}</b></p>
     <h3>{{ member.name }}</h3>
@@ -23,13 +22,8 @@ permalink: /about/our-leadership
   {% endfor %}
 </div>
 
-<div class="row mt-3">
-  <div class="col-12">
-    <h2>Our Team</h2>
-  </div>
-</div>
 
-<div class="row people">
+<div class="row people mt-3">
   {% assign members = site.team | where: "banner", false| sort:"order"  %}
   {% for member in members %}
   <div class="col-sm-4 scroll-animate scroll-once fade-in-bottom">

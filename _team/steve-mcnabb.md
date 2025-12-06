@@ -3,7 +3,7 @@ name: Steve McNabb
 role: Assistant Minister
 image: /media/team/steve-mcnabb.jpg
 order: 3
-banner: false
+banner: true
 ---
 
-Steve joins us having looked after Roimata church for 6 years. He is joined by his wife, Lisa; and their children Hamish, Stephanie, and Rory.
+Steve joined us in 2025 having looked after Roimata church for 6 years. He is married to Lisa, with 3 children: Hamish, Stephanie, and Rory.
