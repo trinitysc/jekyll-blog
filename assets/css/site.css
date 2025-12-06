@@ -6,6 +6,9 @@ h1 {
   text-transform: uppercase;
 }
 
+h2, h3 {
+   font-variant: small-caps;
+}
 a {
    font-weight:bold;
 }
