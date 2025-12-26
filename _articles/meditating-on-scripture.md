@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Meditating of Scripture
+title: Meditating on Scripture
 tags: members visitors
 permalink: /articles/devotion/meditating-on-scripture/
 banner: /media/banners/bible.jpg
