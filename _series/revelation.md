@@ -1,5 +1,5 @@
 ---
 book: Revelation
 sid: 281
-title: The Apocalypse: Jesus Wins
+title: The Apocalypse - Jesus Wins
 ---
