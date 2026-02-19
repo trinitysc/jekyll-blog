@@ -5,8 +5,19 @@ banner:
 order: 2
 ---
 
-Youth at Trinity love spending time together to learn about Jesus and have great fun.
+## Youth at Trinity
+At Trinity, our youth love spending time together - building friendships, having heaps of fun, and learning more about Jesus.
 
-We have a great youth group for those in school years 7-13. They meet on Tuesday evenings, 7:15-9:00pm at 200 Colombo St in Sydenham.
+### Years 7-10  
+**Thursdays | 7:00-8:30pm**  
+📍 *Trinity - 200 Colombo Street, Sydenham*
 
-Any are welcome to come along and enjoy a great time hanging out, playing games and learning from the Bible to love God, to love each other, and to love the world around us.
+Our intermediate youth group is full of energy, games, laughter, and Bible teaching that helps young people grow in their faith and friendships.
+
+### Years 11-13  
+**Sundays | 4:00-5:30pm**  
+📍 *Trinity - 200 Colombo Street, Sydenham*
+
+Senior youth is a relaxed and welcoming space to connect, ask big questions, encourage one another, and explore what it means to follow Jesus in everyday life.
+
+Everyone is welcome! Come along to hang out, play games, and learn from the Bible as we grow together - loving God, loving one another, and loving the world around us.
