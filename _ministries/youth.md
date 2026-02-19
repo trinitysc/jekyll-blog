@@ -1,20 +1,19 @@
 ---
 layout: ministry
-title: Youth
+title: Youth at Trinity
 banner:
 order: 2
 ---
 
-## Youth at Trinity
 At Trinity, our youth love spending time together - building friendships, having heaps of fun, and learning more about Jesus.
 
-### Years 7-10  
+#### Years 7-10  
 **Thursdays | 7:00-8:30pm**  
 📍 *Trinity - 200 Colombo Street, Sydenham*
 
 Our intermediate youth group is full of energy, games, laughter, and Bible teaching that helps young people grow in their faith and friendships.
 
-### Years 11-13  
+#### Years 11-13  
 **Sundays | 4:00-5:30pm**  
 📍 *Trinity - 200 Colombo Street, Sydenham*
 
