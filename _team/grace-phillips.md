@@ -7,5 +7,5 @@ banner: false
 ---
 Grace is a keen pianist and enjoys playing music with her husband, Luke. 
 Grace loves seeing people respond to God’s word through song. 
-She also works as a support worker for [Hohepa](https://www.hohepacanterbury.com/).
+She is currently taking a break to look after her new baby.
 
