@@ -5,4 +5,4 @@ image: /media/team/pam-walters.jpg
 order: 13
 banner: false
 ---
-Pam joins our team after a stint as a Maths teacher at Middleton. She has a passion for sharing the gospel, and currently leads our [Introducing God](/events/introducing-god) course.
+Pam joins our team after a stint as a Maths teacher at Middleton. She has a passion for sharing the gospel, and is currently working on helping us grow as a church family.
