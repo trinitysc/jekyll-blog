@@ -20,5 +20,5 @@ watching a short video and discussing the ideas it raises.
 We meet on Wednesday nights, 7:00-9:00pm, at Trinity Church, 200 Colombo Street. Introducing God runs for 7 weeks but there’s no need to commit to the
 whole thing now, just come along for the first week and see how it goes!
 
-Introducing God is free of charge. [Contact Pam](mailto:pam@trinitysc.nz) to find out about 
+Introducing God is free of charge. [Contact Us](mailto:info@trinitysc.nz) to find out about 
 the next course and reserve your place.
