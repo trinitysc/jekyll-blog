@@ -26,3 +26,12 @@ x-data="CSEvents({configuration: '6bb13bb1-5a49-4368-806a-79dd7bab7e16', merge: 
 Presumably other configurations can be similarly applied.
 
 As for the templates used to distplay the events, the attributes and structures are described at <https://alpinejs.dev/>
+
+# Running locally
+
+## Install dependencies
+`gem install bundler`
+`bundle install`
+
+## Run the server
+`bundle exec jekyll serve --livereload`

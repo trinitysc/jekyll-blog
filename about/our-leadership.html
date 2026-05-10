@@ -13,7 +13,7 @@ permalink: /about/our-leadership
 <div class="row people leadership p-3">
   {% assign members = site.team | where: "banner", true | sort:"order"  %}
   {% for member in members %}
-  <div class="col-sm-4 scroll-animate scroll-once fade-in">
+  <div class="col-12 col-md-6 col-lg-4 scroll-animate scroll-once fade-in mb-4">
     <img style="max-width:90%; margin:20px 5%;" alt="{{ member.title }}" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
     <p class="m-0" style="color:#999;"><b>{{ member.role }}</b></p>
     <h3>{{ member.name }}</h3>
@@ -26,7 +26,7 @@ permalink: /about/our-leadership
 <div class="row people mt-3">
   {% assign members = site.team | where: "banner", false| sort:"order"  %}
   {% for member in members %}
-  <div class="col-sm-4 scroll-animate scroll-once fade-in-bottom">
+  <div class="col-12 col-md-6 col-lg-4 scroll-animate scroll-once fade-in-bottom mb-4">
     <img style="max-width:100%" alt="{{ member.title }}" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
     <p class="m-0" style="color:#999;"><b>{{ member.role }}</b></p>
     <h3>{{ member.name }}</h3>
