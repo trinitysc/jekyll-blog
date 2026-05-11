@@ -1,6 +1,6 @@
 ---
 name: Lisa McNabb
-role: Ministry Staff
+role: Missions Champion
 image: /media/team/lisa-mcnabb.jpg
 order: 31
 banner: false
