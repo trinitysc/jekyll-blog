@@ -2,7 +2,7 @@
 name: Dave & Kylie Morgan
 role: Youth Ministry
 image: /media/team/dave-morgan.jpg
-order: 14
+order: 23
 banner: false
 ---
 Dave and Kylie look after our Junior and Senior Youth programmes.  As parents to teenagers themselves
