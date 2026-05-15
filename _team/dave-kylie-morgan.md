@@ -1,6 +1,6 @@
 ---
 name: Dave & Kylie Morgan
-role: Youth Ministry
+role: Youth Ministry Directors
 image: /media/team/dave-morgan.jpg
 order: 23
 banner: false
