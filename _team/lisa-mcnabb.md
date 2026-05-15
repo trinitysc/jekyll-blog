@@ -1,6 +1,6 @@
 ---
 name: Lisa McNabb
-role: Missions Champion
+role: Mission Champion
 image: /media/team/lisa-mcnabb.jpg
 order: 31
 banner: false
