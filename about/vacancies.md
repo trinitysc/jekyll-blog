@@ -14,4 +14,4 @@ Trinity is a growing church in South Christchurch. We're captivated by Jesus, co
 
 A full position description is available. We welcome expressions of interest from ordained and unordained candidates, and we'd warmly encourage you to get in touch with James directly if you'd like to find out more.
 
-*Download the <a href= https://drive.google.com/file/d/1FhFKfAj8_173G0WnWnHcLMfA-EzL35Q2/view?usp=sharing_eil_se_dm&ts=6a260139>Position Description</a> or contact James at <a href="mailto:james@trinitysc.nz">james@trinitysc.nz</a>*
+*Download the <a href= "https://drive.google.com/file/d/1FhFKfAj8_173G0WnWnHcLMfA-EzL35Q2/view?usp=sharing_eil_se_dm&ts=6a260139"> Position Description</a> or contact James at <a href="mailto:james@trinitysc.nz">james@trinitysc.nz</a>*
