@@ -14,4 +14,4 @@ For both groups, we follow a simple plan: Fun, Bible, and Food.
         Bible - each week we open the bible to learn more about God, what he has done for us through Jesus & how he wants us to live in his world. It is a place where small and big questions are welcomed, and where we encourage & support each other.
         Food - another opportunity to connect and eat yummy food.
 
-Everyone is welcome, so if you are new, please reach out to Dave or Kylie to find out more at youth@trinitysc.nz
+Everyone is welcome, so if you are new, please reach out to Dave or Kylie to find out more at <a href="mailto:youth@trinitysc.nz">youth@trinitysc.nz</a>
