@@ -5,18 +5,13 @@ banner:
 order: 2
 ---
 
-At Trinity, our youth love spending time together - building friendships, having heaps of fun, and learning more about Jesus.
+Trinity Youth comprises two groups that meet weekly on church property during the school term.
+        Junior Youth (years 7-10) meet on Thursday evenings at church from 7-8:30pm.
+        Senior youth (year 11-13) meet up at church on Sunday from 4-5:30pm.
 
-#### Years 7-10  
-**Thursdays | 7:00-8:30pm**  
-📍 *Trinity - 200 Colombo Street, Sydenham*
+For both groups, we follow a simple plan: Fun, Bible, and Food.
+        Fun - a time to connect, build friendships and have a laugh
+        Bible - each week we open the bible to learn more about God, what he has done for us through Jesus & how he wants us to live in his world. It is a place where small and big questions are welcomed, and where we encourage & support each other.
+        Food - another opportunity to connect and eat yummy food.
 
-Our intermediate youth group is full of energy, games, laughter, and Bible teaching that helps young people grow in their faith and friendships.
-
-#### Years 11-13  
-**Sundays | 4:00-5:30pm**  
-📍 *Trinity - 200 Colombo Street, Sydenham*
-
-Senior youth is a relaxed and welcoming space to connect, ask big questions, encourage one another, and explore what it means to follow Jesus in everyday life.
-
-Everyone is welcome! Come along to hang out, play games, and learn from the Bible as we grow together - loving God, loving one another, and loving the world around us.
+Everyone is welcome, so if you are new, please reach out to Dave or Kylie to find out more at <a href="mailto:youth@trinitysc.nz">youth@trinitysc.nz</a>
