@@ -5,7 +5,7 @@ banner:
 order: 2
 ---
 
-rinity Youth comprises two groups that meet weekly on church property during the school term.
+Trinity Youth comprises two groups that meet weekly on church property during the school term.
         Junior Youth (years 7-10) meet on Thursday evenings at church from 7-8:30pm.
         Senior youth (year 11-13) meet up at church on Sunday from 4-5:30pm.
 
