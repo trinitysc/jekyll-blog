@@ -1,5 +1,5 @@
 ---
-name: Join our team!
+name: 
 role: Assistant Minister
 image: /media/team/placeholder.png
 order: 3
