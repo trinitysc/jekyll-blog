@@ -1,5 +1,5 @@
 ---
-name: Jason Juan
+name: Jason Kuan
 role: Assistant Minister
 image: /media/team/jason-kuan.jpg
 order: 3
